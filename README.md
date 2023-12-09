@@ -9,8 +9,8 @@ TheBloke/Mistral-7B-Instruct-v0.1-GGUF/mistral-7b-instruct-v0.1.Q4_K_M.gguf
 
 Assigned Portions of Data set: 
 
-Emily: subset = data.iloc[0:50] 
-Anushka: subset = data.iloc[50:101] 
+Emily: subset = data.iloc[0:50] \n
+Anushka: subset = data.iloc[50:101] \n 
 Anushka: subset = data.iloc[50:101] 
 Matt: subset = data.iloc[101:152] 
 Aaron: subset = data.iloc[152:200] 
