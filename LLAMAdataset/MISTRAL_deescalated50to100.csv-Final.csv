@@ -1,0 +1,1088 @@
+Original Complaint,Tone Severity,Case Severity,De-escalated Complaint (Case Decreased),Tone Severity - Constant,Case Severity - Decreased,Sentiment Analysis - Complaint 1,De-escalated Complaint (Tone Decreased),Tone Severity - Decreased,Case Severity - Constant,Sentiment Analysis - Complaint 2,Sentiment Analysis - Original Tone,Sentiment Analysis - Original Case,Sentiment Analysis - Complaint 1 Tone,Sentiment Analysis - Complaint 1 Case,Sentiment Analysis - Complaint 2 Tone,Sentiment Analysis - Complaint 2 Case
+I had a bank account with bank of america savings as well as checking. Both had money in them totaling around {$500.00}. They decided to close my account and they issued checks. By the time I received the checks they were expired. I called to have the checks reissued which took me over 4 hours on the phone waiting on hold to only be transfered to 6 different departments to then get hung up on.,2.0,1.0,,,,,,,,,2.0,3.0,2.0,2.0,2.0,3.0
+"In XX/XX/2023 I called to cancel my XXXX XXXX XXXX Credit card as it has a {$99.00} annual fee and I dont use it. They convinced me to take a lower card with no annual fee. I was told I would get a new card and dont pay the {$99.00}. I received my next statement with the {$99.00} annual fee. I was told again, do not pay it. I then started getting future statements with the {$99.00}, late fees and interest. I have spent 3 1/2 months calling and they credited almost all of it except for an interest balance of {$6.00}. I called the past 2 weeks and spent over 55 mins on each phone call, still not fixed. My problem has been transferred to supervisor etc, but Im getting no where. Every time I call Im told it will definitely be fixed in 5-7 business days. I receive daily phone calls ; emails and texts stating I have a past due credit card bill. Im at a loss and Im sure I will start getting late fees soon on this amount. The situation has actually become harassment as I receive notifications every day about this past due bill. I have excellent credit and dont need it ruined by something like this. I have several credit cards and I have never been through anything like this.",2.0,2.0,"Dear [Customer],
+Thank you for bringing your recent experience with our bank to our attention. We apologize for the inconvenience you have experienced in attempting to cancel your credit card and for the repeated errors in crediting your account.
+We understand your frustration and want to assure you that we take this matter seriously. Our team has reviewed your case and has identified the issue, which was a miscommunication between our customer service representatives and our billing department. We have since corrected the error and credited your account for the full amount of the annual fee.
+We apologize for any confusion or harassment you may have experienced as a result of this mistake. Please rest assured that we are committed to providing excellent customer service and will work to ensure that this does not happen again in the future.
+Thank you for your understanding and for bringing this matter to our attention. If you have any further questions or concerns, please do not hesitate to contact us.
+Sincerely,
+[Bank Name]",2.0,1.0,,"My issue with the credit card company was related to an annual fee charge, which I had agreed not to pay during my phone call with customer service. Despite this, I received multiple future statements with the annual fee charge, late fees, and interest. My efforts to resolve the issue, including spending over 55 minutes on the phone each time, have been unsuccessful. The repeated calls, emails, and texts about the past-due credit card bill have become harassing and are negatively impacting my credit score. I understand that mistakes can happen, but I expect respectful communication and prompt resolution of issues related to my account.",1.0,2.0,,2.0,3.0,2.0,2.0,2.0,3.0
+"I am closing out my business credit card through Wells Fargo and they will not honor my rewards points. I have attempted to redeem them and request product from their rewards website and they cancel my orders. They will not ship me anything they will not honor the rewards. They will not let me to cash out my rewards. They will not answer their phone calls. They will not answer emails anytime I do get connected through a phone call they have me on the phone for anywhere from 45 minutes to 2 hours and then call gets dropped or disconnected. Ive attempted for the last 20 days to handle this and they refuse to cooperate communicate and honor my rewards points that I have earned. I just want to redeem my points get the money and products that I deserved and close the accounts out. I will no longer do business with Wells Fargo ever again, but they should not be allowed to treat customers like this.",2.0,2.0,"Dear [Customer],
+
+I am sorry to hear about your recent experience with Wells Fargo regarding your business credit card rewards points. I understand how frustrating it must have been to attempt to redeem your points and not receive the products or cash you were expecting. I apologize for any inconvenience this may have caused and want to assure you that we take your concerns seriously.
+
+I would like to clarify that our policy states that rewards points can only be redeemed for certain products or services, and in some cases, there may be restrictions on the availability of these rewards. However, I understand that this information was not communicated clearly to you, which may have led to your frustration.
+
+I would like to offer my assistance in resolving this issue. Please provide me with your account details and any other relevant information so that we can investigate further and find a solution that works for you.
+
+Thank you for bringing this to our attention, and we apologize for any disappointment caused. We value your business and hope to continue serving you in the future.
+
+Sincerely,
+
+[Your Name]",2.0,1.0,,"I am disappointed in my recent experience with Wells Fargo regarding my business credit card rewards points. I have attempted to redeem them through the bank's website, but my orders were canceled and I was unable to receive the products or cash out the rewards. Despite numerous attempts to communicate with their customer service team via phone and email, I have been met with frustration and poor communication. This has been a significant inconvenience for me and I feel that my experience does not reflect the high standards of service that Wells Fargo is known for. While I understand that mistakes happen, I hope that they will be able to address this issue in a timely manner so that I can move forward and continue doing business with them. Thank you for your attention to this matter.
+
+### Response:
+I am writing to express my frustration with my recent experience at Wells Fargo while attempting to redeem rewards points on my business credit card. Despite multiple attempts to contact customer service through phone and email, I have been met with poor communication and an inability to resolve the issue. This has caused significant inconvenience for me and has left me feeling disappointed with the bank's service. While I understand that mistakes happen, I hope that Wells Fargo will be able to address this issue promptly so that I can move forward and continue doing business with them. Thank you for your consideration of my concerns.",1.0,2.0,,2.0,3.0,2.0,1.0,2.0,2.0
+"I hope this message finds you well. I am writing to express my concern and seek immediate resolution regarding an unauthorized charge and the subsequent overdraft fee incurred on my account. 
+
+On XX/XX/2023, I made a payment of {$140.00} to my account with XXXX XXXX XXXX. I promptly realized a mistake had been made and immediately contacted card services via the XXXX support line to request a cancellation of this charge. I was assured that the charge would be reversed. Consequently, I resubmitted the payment on the same day to my correct account at XXXX XXXX XXXX, which was successfully posted on XX/XX/2023. 
+
+However, I was dismayed to discover that on XX/XX/2023, XXXX 's card services attempted to withdraw another {$140.00} from my now inactive account at XXXX XXXX XXXX. This attempt not only was unauthorized but also resulted in an overdraft fee of {$30.00} being debited from my account. 
+
+Upon contacting XXXX 's card services, even after verifying the accuracy of the aforementioned transactions, I was informed that the charge on XX/XX/2023 ( which is not reflected on my account ) was authorized. I want to categorically state that this charge was not authorized by me and has resulted in financial damages amounting to {$30.00} at the time of lodging this complaint. 
+
+Moreover, I am deeply concerned by the comments made by XXXX 's XXXX Services, indicating potential unauthorized attempts in the future. This raises significant security concerns and demands immediate attention. 
+
+I kindly request the following actions to be taken : A thorough investigation into the unauthorized charge dated XX/XX/2023. 
+Reversal of the {$30.00} overdraft fee incurred due to the unauthorized charge. 
+XXXX that no future unauthorized attempts will be made on my account. 
+A written confirmation detailing the resolution of these matters. 
+
+Your immediate attention and swift resolution of this matter are crucial to maintaining the trust and confidence I have in your institution. I appreciate your understanding and cooperation in advance. 
+
+Thank you for taking the time to address my concerns. I look forward to your prompt response and resolution of this matter. 
+
+Sincerely, XXXX XXXX",2.0,2.0,"Dear XXXX XXXX,
+
+Thank you for reaching out to us about the unauthorized charge on your account. We apologize for the inconvenience this has caused you and we understand how frustrating this situation can be.
+
+We want to assure you that we take this matter seriously and are committed to resolving it as quickly as possible. Our team is currently investigating the issue and will work diligently to ensure that your account is protected from any future unauthorized activity. In the meantime, we have reversed the unauthorized charge and the associated overdraft fee.
+
+We want to assure you that we have implemented measures to prevent similar occurrences in the future, including increased monitoring of transactions and stricter controls on card usage. We will continue to work with you to ensure that your account remains secure and protected.
+
+Once again, we apologize for any inconvenience this has caused and appreciate your patience during this time. Please do not hesitate to contact us if you have any further concerns or questions.
+
+Sincerely,
+[Your Name]
+Bank Customer Service",2.0,1.0,,"Dear XXXX XXXX,
+
+Thank you for bringing your concerns regarding the unauthorized charge and overdraft fee to our attention. We apologize for any inconvenience this may have caused you. We understand your frustration and want to assure you that we take these matters seriously.
+
+We have thoroughly investigated the issue and can confirm that the unauthorized charge was a result of a clerical error by one of our team members. Rest assured, we have taken steps to prevent any further errors and have corrected the mistake promptly.
+
+Regarding the overdraft fee incurred, we will be crediting it back to your account as soon as possible. We apologize for any financial hardship this may have caused you and want to assure you that we are committed to providing excellent customer service and ensuring that our customers' experiences are positive.
+
+Please know that we take security very seriously, and we have implemented measures to protect your account from unauthorized access. We will continue to monitor your account closely to prevent any further incidents.
+
+We value your business and appreciate your patience in this matter. Thank you for bringing this to our attention, and please do not hesitate to contact us if you have any further concerns or questions.
+
+Sincerely,
+[Your Name]",1.0,2.0,,2.0,3.0,2.0,3.0,2.0,1.0
+"I signed up for the Chase Bonvoy Marriott credit card XX/XX/2023. They were offering a sign on bonus. I was looking forward to getting the points for future stays at your hotels. If I charged {$3000.00} to the credit card in the first 90 days, they would give me XXXX certificates for free nights and one free night yearly. The Marriott credit card never arrived so I was not able to activate it or use it. They billed me {$95.00} for the annual fee immediately upon my signing up for the card and sent me a bill. It was not until I called them and asked where the card was, they informed me that my first bill was past due. I got them to send me a new card and started using it and immediately paid the {$95.00} bill. I charged {$3000.00} in the next XXXX months and waited for my Marriott bonuses to arrive in my Marriott Bonvoy Account. Unfortunately they never did. I then called your customer service and they said to call Chase. Chase said the {$95.00} did not count and therefore I was not eligible to get the sign up bonus as I was just under the {$3000.00} spend. I asked for a special exception as I was so close to the {$3000.00} and they said NO. So I asked for a refund of my {$95.00} and they said they couldn't give me that either. So I asked them to close my account since they did not provide me with the satisfaction and the performance of those terms according to the credit card agreement I then contacted Chase and after a few calls I was told I WOULD get my {$95.00}. After months of not receiving the refund back, I called several more times. The last time I called, I told them I felt like I was getting ghosted. They finally called me back on XXXX  and told me that they will not refund my {$95.00} because I did not close it according to their terms.. They record the calls and they claim the can not find the call of the representative that told me I would get my {$95.00} refund. Since Marriott is promoting this card in all their Marriott locations, I would like Marriott to be part of this compliant also. Both will not refund my {$95.00} which I am due because they did not give me what was agreed upon sign up for the card. Chase is very cutthroat with their customers when you have an issue with their credit card. When you complain they close your complaint out in XXXX days and make a determination in their favor. If you complaint to the XXXX about them. They just respond and say you can't get a refund based on their policy. A representative told me I would get a refund and now even though they record all calls they can not find that particular recording. I want my {$95.00} refund. Their policy not to refund a customer who did not get the satisfaction promised is deceitful and misleading. They do not want to give me what was promised to me a refund of my {$95.00}.",2.0,2.0,"Dear [Customer Name],
+
+We are sorry to hear about your negative experience with Chase Bonvoy Marriott Credit Card. We understand how frustrating it can be when you don't receive the benefits that were promised to you. We want to assure you that we take all complaints seriously and are committed to resolving this issue as soon as possible.
+
+We apologize for the inconvenience caused and any frustration you may have experienced in regards to not receiving your sign-up bonus, delayed card arrival, and non-refund of the annual fee. We understand that these issues can be significant and we will work with you to find a resolution that meets your needs.
+
+Please provide us with more details about your experience and any specific concerns you may have so that we can take appropriate action. We value your feedback and appreciate your patience as we work to resolve this issue.
+
+Thank you for bringing this matter to our attention.
+
+Sincerely,
+[Your Name]",2.0,1.0,,"Dear Customer,
+
+Thank you for bringing this matter to our attention. We apologize for the inconvenience caused to you with regards to your Marriott credit card sign-up process. We understand how frustrating it must be when your expectations are not met and we assure you that we are taking your concerns seriously.
+
+We acknowledge that there was a delay in receiving your credit card, which led to confusion and frustration for you. We also apologize for the confusion regarding the eligibility for the sign-up bonus, as this was not communicated clearly to you initially.
+
+We understand that you were close to meeting the required spend threshold and we deeply regret that our initial decision was to deny your request for a special exception. However, upon further review of your account, we have decided to issue you a refund of your $95 annual fee. We apologize for any inconvenience caused and hope this resolves your concerns.
+
+We value your business and we want to assure you that we are committed to providing excellent service to our customers. If you have any further questions or concerns, please don't hesitate to reach out to us.
+
+Sincerely,
+[Your Name]
+Customer Service Representative",1.0,2.0,,2.0,3.0,2.0,1.0,2.0,2.0
+"Made a large check deposit and a hold was placed on check. Check cleared and bank closed account. Asked for a review and provided all documentation of money source and was denied a review after receiving all proof and documents. Spoke with numbers agents who gave different wrong amounts to me as the balance. Said the check was altered from the Department of Treasury, lied and said they were returning the funds to IRS then lied and said waiting for IRS to request funds back and different versions to what was the delay. I asked to have check returned and was denied even after submitted IRS documentation. The IRS says checked cleared and the money is there but bank refuses to give funds to me and closed account without valid reason and did not return ending balance in account. Now Im in danger of losing my business after 3 months of going back and forth and being provided wrong info from each bank representative",2.0,3.0,"Dear Sir/Madam,
+
+I am writing to express my dissatisfaction with the recent experience I had with your bank. On [insert date], I made a large check deposit at [insert branch/location]. After the deposit was processed, I noticed that a hold was placed on my account. Despite providing all necessary documentation regarding the source of funds, I was informed that the check would not clear and that my account had been closed.
+
+I understand that this may have been a mistake on your part, but I urge you to take swift action to resolve this issue. I have been attempting to contact your customer service team for several days now, but I have yet to receive a resolution to the problem. Your representatives have provided me with conflicting information and have not been able to provide a clear answer regarding the status of my account.
+
+I demand that you return the check to me immediately and reinstate my account without any further delays or complications. I am extremely disappointed in your handling of this situation and believe that this is unacceptable behavior from a reputable financial institution.
+
+Sincerely,
+[insert name]",2.0,2.0,,"Dear [Customer Name],
+
+I am sorry for the inconvenience and frustration you have experienced with our bank. We understand how important it is to have access to your funds, and we apologize for any mistake that may have caused this problem.
+
+We have reviewed the documentation you provided and can confirm that the check was cleared and funds were credited to your account. However, we are aware that a hold was placed on the check and you did not receive the funds as expected. We understand how frustrating this can be, and we want to assure you that we are taking steps to resolve this issue.
+
+We have reviewed the situation and we found out that the bank's system did not accurately reflect the funds in your account. This was a mistake on our part and we apologize for any confusion caused. We have removed the hold on your account and the funds should now be available to you.
+
+If you continue to experience any issues with your account, please do not hesitate to contact us. We will work with you to resolve any problems as quickly and efficiently as possible.
+
+Thank you for bringing this matter to our attention and we apologize again for any inconvenience caused.
+
+Sincerely,
+
+[Your Name]
+Customer Service Representative",1.0,3.0,,2.0,3.0,2.0,2.0,2.0,1.0
+"I received a notice on XX/XX/2023 from XXXX XXXX that my account was going to be closed due to "" Unsatisfactory credit and/or derogatory public record references ''. But they didn't how they determined this. No credit bureau information was listed. 
+
+I have credit scores from all XXXX companies in the high XXXX, and I have never paid a credit card or loan late, so this is a complete shock to me. I tried to call their number but they said I had to do it in writing. So I wrote them a letter. This week it was reported on my XXXX credit report that XXXX had closed my account. But they never bothered to get back to me. 
+
+I got a notice today saying they needed to get in touch with me. So I called the number on the notice, but there was no way to talk to a human being. 
+
+I don't care about my credit card since I don't really use it, but it really disturbs me that they are saying I have bad credit when I don't.",2.0,3.0,"Dear [Bank Name],
+
+I am writing to express my frustration with the recent closure of my account due to "" Unsatisfactory credit and/or derogatory public record references ''. I understand that my credit score may have played a role in this decision, but I find it hard to believe that I would be classified as having bad credit when my scores from all XXXX companies are in the high XXXX.
+
+I tried to call your customer service department to understand why my account was closed and how my credit score was determined, but I was directed to submit a written request. Unfortunately, I have not received any response from your team yet.
+
+I am concerned that my credit report may be negatively affected by this closure, which could impact my ability to obtain loans or credit cards in the future. I understand that mistakes can happen, but I hope that you will reconsider this decision and provide me with a clear explanation of your reasoning.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+[Your Name]",2.0,2.0,,"Dear [Bank Name],
+
+I am writing to express my frustration with the closure of my account due to ""Unsatisfactory credit and/or derogatory public record references."" I understand that maintaining good credit is important, but it is not clear how you determined this. No credit bureau information was listed in the notice I received.
+
+I have high credit scores from all major credit reporting agencies and have never paid a credit card or loan late. I attempted to contact your customer service department by phone, but they told me I needed to submit my concerns in writing. I wrote a letter detailing my credit history and provided documentation to support my case. However, I have not received any response from your team.
+
+It is concerning that this information has been reported on my credit report without any explanation or resolution. I called the number on the notice today but was unable to speak with a human being. I believe that it is important for customers like me to receive prompt and clear communication about their account status and any issues related to their credit.
+
+I hope that you can look into this matter and provide me with a clear explanation of how my account was closed and what steps can be taken to correct the error. If there are any further issues, I would appreciate it if you could provide me with a timeline for resolution.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+[Your Name]",1.0,3.0,,2.0,2.0,2.0,2.0,2.0,2.0
+"Bank of America has charged me a {$12.00} monthly maintenance fee several times incorrectly. I have called in the past and have been able to rescind the fee. However, in XXXX of 2023 it happened again. I called XX/XX/2023 ( spoke with XXXX in Florida and XXXX in North Carolina, 2 bank of America employees ) and explained the fee was charged even though I maintained the daily minimum balance required by the bank to have the fee waived. This is evident in my bank statements. There was no follow-up action or call to my request and query. The fee has been charged once again this month ( XX/XX/2023 ) and I again am awaiting a call back from Bank of America to explain once again why the fee is being charged even though it is clear the conditions for a free checking account are being met.",2.0,2.0,"Dear Bank of America,
+
+I am writing this email to express my frustration with the recurring monthly maintenance fee that has been charged to my account in error. I have spoken with several representatives on multiple occasions and have attempted to resolve this issue. However, I continue to be charged the fee despite having maintained the daily minimum balance required by the bank.
+
+I understand that this is a minor issue compared to more significant problems that some customers may face. However, as a valued customer of Bank of America, I expect accurate billing and account management. This repeated mistake not only inconveniences me but also causes financial strain, especially since it has been happening for several months.
+
+I kindly request that Bank of America review my account and fix this error immediately. I appreciate your attention to this matter and hope that we can find a solution to this issue promptly. Thank you for your time and consideration.
+
+Sincerely,
+[Your Name]",2.0,1.0,,"Thank you for reaching out to us regarding your recent experience with Bank of America. We apologize for the inconvenience caused by the incorrect monthly maintenance fee charges on your account. We understand how frustrating it can be when there are issues with your bank account and we want to assure you that we take your concerns seriously.
+We appreciate your patience as we investigate this matter further and work towards resolving it promptly. In the meantime, please rest assured that any fees charged incorrectly on your account will be refunded in full.
+Once again, we apologize for any inconvenience caused and thank you for bringing this to our attention. We value your business and are committed to providing you with the best possible service.",1.0,2.0,,2.0,2.0,2.0,2.0,2.0,1.0
+"To Whom It May Concern, I am writing to report an incident of identity theft that has had a significant impact on my life. I believe that the following information constitutes a clear case of identity theft, and I request the Federal Trade Commission 's assistance in resolving this matter. On XX/XX/2023, I became aware of the unauthorized activities and financial transactions on my account from citicards cbna, which I believe to be a result of identity theft. I noticed unapproved credit account in my name, and suspicious monthly payments as well as a incorrect address I never resided in.",2.0,3.0,"Dear Customer,  
+Thank you for bringing your concerns to our attention regarding the recent unauthorized credit account activity on your Citicards CBNA account. We sincerely apologize for any inconvenience this may have caused you and we take identity theft very seriously. Our team is actively working to investigate and resolve this matter as quickly as possible.  
+Please be assured that we will do everything in our power to ensure that your personal information is secure and that the unauthorized account activity is stopped immediately. We will also work with you to correct any errors or discrepancies on your account.  
+We understand how frustrating this experience can be, and we want to assure you that we are committed to providing excellent customer service. If you have any further questions or concerns, please do not hesitate to contact us at your earliest convenience.  
+Sincerely,  
+[Your Name]",2.0,2.0,,"To Whom It May Concern,
+I am writing to express my disappointment with the services provided by Citibank in relation to my recent experience with identity theft on my account with cbna. I understand that this is a serious matter and I request an immediate resolution to the issue.
+The unauthorized credit account opened in my name and the suspicious monthly payments have caused me significant inconvenience and stress. Additionally, the incorrect address associated with my account has added to my frustration.
+While I appreciate Citibank's efforts to address this situation, I believe that more could be done to prevent identity theft from occurring in the first place. I request that Citibank take steps to improve their security protocols and provide better protection for their customers' personal information.
+I ask that you look into this matter and resolve it as soon as possible. If there are any additional information required, please do not hesitate to contact me.
+Tone Severity: 2.0
+Case Severity: 2.0",1.0,3.0,,2.0,3.0,2.0,1.0,2.0,2.0
+"On XX/XX/2023, I called Citi to report fraud on my credit card. They had sent me messages about potential charges which I was able to catch before they went through. I mentioned on this date by way of phone as well that although they caught most of the fraud charges HOWEVER XXXX total charges for {XXXX for "" XXXX XXXX XXXX XXXXXXXX XXXX  '' ( so XXXX total ) were pending. They said "" don't worry about it, it will drop off ''. On XX/XX/XXXX I called to let them know that these charges did NOT drop off but posted. They started a fraud dispute. 
+
+On XX/XX/XXXX, Citi requested I sign XXXX sheets of paper which I sent back by way of email to XXXX on XX/XX/XXXX for the XXXX charges. See attached for the exact XXXX sheets of paper i sent back. ( This likely confused Citi because they stupidly asked for the same EXACT paper to be signed twice with the same exact dispute number which was XXXX, don't you think since it was XXXX transactions I would need to sign XXXX different pieces of paper with different numbers? ). 
+
+On XX/XX/XXXX, I took a screenshot of the dispute portal because it switched to "" Thanks for sending us more info '' for XXXX fraud charge, while for the other fraud charge still stated "" We need more info ''. See screenshot XXXX! 
+
+Thinking that was weird, that XXXX charge moved to "" Thanks for sending us more info '' and the other didn't, I resent the XXXX sheets of paper a XXXX time on XX/XX/XXXX. 
+
+Today XX/XX/XXXX, I noticed that Citi reversed the fraud credit for XXXX fraudulent charges while issuing a credit for the other one. On XX/XX/XXXX I called with an attempt to get this resolved and was transferred at LEAST XXXX  times with no direct success. As of today there is still a reversed XXXX  bill on my XXXX  card ( the other credit for the other charge was successful ).",2.0,3.0,"Dear Customer,
+
+We are sorry to hear about your recent experience with our bank. We understand the frustration you must be feeling after reporting fraud on your credit card and having issues resolving the situation.
+
+We appreciate your patience in this matter and apologize for any inconvenience caused by the errors that occurred during the fraud dispute process. We assure you that we take these matters seriously and are committed to making things right for you.
+
+We understand that the communication you received from our representatives was not clear and may have contributed to the confusion you experienced throughout the process. We apologize for any misunderstandings that may have occurred and will work to ensure that our communication is more transparent and helpful moving forward.
+
+We are also sorry to hear about the inconsistencies you noticed in the dispute portal and the repeated requests for the same paperwork with the same dispute number. We understand the frustration this must have caused and are working to improve our internal processes to prevent similar issues from happening in the future.
+
+We appreciate your feedback and hope that we can work together to resolve this matter in a timely manner. Please do not hesitate to contact us if you have any further concerns or questions.
+
+Sincerely,
+[Your Name]
+Customer Service Representative",2.0,2.0,,"Dear Customer,
+
+Thank you for bringing your recent experience with our bank to our attention. We apologize for any inconvenience or frustration you may have felt in dealing with the fraudulent charges on your credit card. We understand how important it is to have a secure and reliable financial system, and we are committed to making things right for you as quickly as possible.
+
+We appreciate your efforts in reporting the potential fraudulent charges on your credit card and bringing them to our attention. However, we regret that there were delays in addressing the issue and processing the necessary actions to resolve it. We understand that this delay caused further frustration for you and we take full responsibility for these errors.
+
+We apologize for any confusion caused by the paperwork we requested from you. Our intention was not to cause any inconvenience or misunderstanding, but rather to ensure that all of the necessary information was provided to accurately resolve the issue. We understand that our mistake in requesting duplicate paperwork may have added to your frustration and we are sorry for that.
+
+We want to assure you that we have taken immediate steps to address this issue and prevent similar incidents from happening in the future. We have investigated the situation thoroughly and have identified areas where we can improve our processes. In addition, we have implemented additional security measures to further protect your account.
+
+Once again, we apologize for any inconvenience or frustration you may have experienced with our bank. We value your business and hope to continue serving you in the future. If you have any further questions or concerns, please do not hesitate to contact us directly.
+
+Sincerely,
+[Your Name]",1.0,3.0,,,,2.0,2.0,2.0,1.0
+"I responded by phone to a mail promotion from Citibank to open a Citi XXXX XXXX XXXX Account. I used the personal invitation code provided in the document XXXX. The promotion offered a {$450.00} bonus on new funds over {$50000.00} that remained there for 60 days. The application was received by them for the opening of account XXXX on XXXX XXXX XXXX Funds well in excess of that amount were deposited on XX/XX/XXXX ( per statement ) remaining there until XX/XX/XXXX. I called several times inquiring when my bonus would be paid and on XX/XX/XXXX was told ( by XXXX ) I met all the requirements and would see the bonus in no more that 15 days. I then received a letter saying I did not open the right kind of account, although all I knew from the mailing was to open the account as titled in the mailing using the invitation code to qualify. I called to appeal speaking with XXXX ( XXXX ) and received a letter mentioning a promotion code not mentioned in the mailing. I called again to complain and again received the same letter. 
+After 5 months of calling Citi for the {$450.00} I transferred the balance to another bank but feel I fully met the terms of their offer and am entitled to the bonus.",2.0,1.0,,,,,,,,,2.0,3.0,,,2.0,3.0
+Tried sending {$400.00} from my XXXX XXXX XXXX account via XXXX to my Bank of America account and it stated payment would post to my Bank of America account today XXXX but IT NEVER DID SO WHERE IS MY {$400.00} at then!!!!????,2.0,2.0,"Dear [Customer Name],
+
+Thank you for bringing this matter to our attention. We apologize for the inconvenience you experienced with your recent payment transfer. We understand how frustrating it can be when a transaction does not post as expected, and we want to assure you that we are taking steps to resolve the issue.
+
+Our team is investigating the matter and will provide you with an update on the status of your transfer once we have more information. In the meantime, please let us know if there is anything else we can do to assist you.
+
+Again, we apologize for any inconvenience this may have caused and thank you for your patience as we work to resolve the issue.
+
+Sincerely,
+[Bank Name] Customer Support Team",2.0,1.0,,"Dear Customer,
+
+We apologize for the inconvenience you experienced with your recent payment transfer from your XXXX XXXX XXXX account to your Bank of America account. We understand how frustrating it must be to not receive the expected funds in a timely manner.
+
+Upon further investigation, we have determined that there may have been an issue with the transfer processing. However, rest assured that we are taking steps to ensure that this does not happen again in the future.
+
+We kindly ask for your patience as we resolve this matter and apologize for any inconvenience caused. Please do not hesitate to contact us if you have any further concerns or questions.
+
+Sincerely,
+[Your Name]",1.0,2.0,,2.0,3.0,2.0,1.0,2.0,2.0
+"Wells Fargo reported to XXXX XXXX and XXXX that I had late payments in XX/XX/XXXX and XX/XX/XXXX when my account was closed in XX/XX/XXXX with a XXXX balance and NEVER LATE per the letter from Wells Fargo already sent to me on XX/XX/XXXX, attached. They even sent me a statement saying DO NOT PAY because I had a credit balance, see attached.",2.0,2.0,"Dear [Name],
+
+We are sorry to hear that you have had negative experiences with Wells Fargo, as well as issues related to your account. We understand the frustration and inconvenience this has caused you.
+
+Firstly, we apologize for any late payments on your account. We understand that this can be a stressful and difficult situation, especially when it is not accurate or unjustified. Please rest assured that we will investigate this matter thoroughly and take appropriate action to resolve the issue.
+
+Additionally, we want to clarify that we did send you a letter stating that your account was closed with a balance of XXXX and had no outstanding late payments per our records. However, we understand that there may have been an error in our records or communication. We apologize for any confusion this may have caused and will work to make things right.
+
+We take your concerns seriously and are committed to providing you with excellent service. If you have any further questions or concerns, please do not hesitate to contact us.
+
+Sincerely,
+[Name]",2.0,1.0,,"Dear [Name],
+
+We apologize for the confusion and frustration you experienced with your Wells Fargo account. We understand how important it is to have accurate and timely information about your account balance, and we are sorry that there was a mistake in reporting your late payments.
+
+We appreciate your prompt attention to this matter and want to assure you that we are taking the necessary steps to correct the issue. Your account has been updated with the correct payment history, and any outstanding fees or charges have been waived. We will also be reviewing our internal processes to prevent similar errors from occurring in the future.
+
+We understand your frustration and apologize for any inconvenience this may have caused. Please let us know if there is anything else we can do to assist you with your account or if you have any further concerns.
+
+Sincerely,
+[Your Name]",1.0,2.0,,1.0,2.0,2.0,1.0,2.0,2.0
+"Hello, This is in regards to JPMCB AUTO for an account for an auto loan. The account has since then been paid in full. After careful review, the account holder appears to be reporting an inaccuracy in payment history for XX/XX/2017. The payment was paid in full for the entire life of the loan. We called in to address the issue, the person we spoke with claimed to have the data and was happy to send it via mail but never sent anything to us. We later called back 6 weeks in XXXX and XXXX. The person on the phone told us since the account is closed, there is nothing they can do and they're unable to update the payment history. I asked to speak to someone else and or a manager, I was then advised a manager would personally call me back. No one ever contacted me. I believe this information to be inaccurate and is affecting my credit score. Please update the payment history to all 100 % payment history showing all on time payments. The account has since then been closed and has been paid in full. There is no reason to show a late payment any longer.",2.0,2.0,"Dear [Customer],
+
+Thank you for reaching out to us regarding the JPMCB AUTO account for your auto loan. We apologize for any confusion or frustration you may have experienced in regards to the payment history inaccuracy that has been reported on your account. We understand how important it is for payment histories to be accurate and reflect your financial record accurately.
+
+We appreciate your diligence in addressing this issue and calling us multiple times to resolve it. Rest assured, our team is working on updating the payment history to show the full 100% payment history, reflecting all on-time payments as they were made for the entire life of the loan.
+
+Once we have completed this process, you can expect your credit score to be updated accordingly. We apologize for any inconvenience this may have caused and appreciate your patience while we work to resolve this issue.
+
+Thank you for choosing JPMCB as your bank partner, and please do not hesitate to contact us with any further concerns or questions you may have.
+
+Sincerely,
+
+[Your Name]",2.0,1.0,,"Hello,
+
+Thank you for reaching out to us regarding your recent experience with JPMCB AUTO for an auto loan account. We apologize for any inconvenience you may have experienced due to the inaccuracy in payment history for XX/XX/2017.
+
+We understand that this issue has caused frustration and we want to assure you that we are committed to resolving this matter promptly. Our team is currently investigating the issue and we will do everything we can to ensure that your payment history is updated accurately. We apologize for any confusion or inconvenience that this may have caused and we appreciate your patience as we work through this process.
+
+If you have any further questions or concerns, please do not hesitate to contact us. We are always here to help and we value your business.
+
+Thank you for choosing JPMCB.",1.0,2.0,,2.0,2.0,2.0,1.0,2.0,1.0
+"I called the Wells Fargo XXXX customer sevice number this am to check on my latest debit card withdrawal because it was not showing up online or in the automated system. The customer service representative told me my checking account had been overdrawn by {$700.00} dollars. This is a lie. She said I could talk to her supervisor., but it's on record and there is nothing I can do about it.Again, This is a lie even though it is on record.",2.0,2.0,"Dear [Name],
+
+I am writing to express my frustration with the recent experience I had with your customer service team. I called inquiring about a debit card withdrawal that was not showing up online or in the automated system. The customer service representative provided me with incorrect information regarding my account balance and overdraft fees.
+
+I understand that errors can occur, but it is unacceptable for this to happen multiple times. I was told I could speak with a supervisor, but the issue remains unresolved. I am disappointed in the lack of transparency and accountability on your end.
+
+I hope that you take these concerns seriously and address them promptly. I value your services and do not want my experience to discourage me from continuing to do business with you.
+
+Sincerely,
+[Your Name]",2.0,1.0,,"Dear Sir/Madam,
+
+I hope this message finds you well. I am writing today in regards to the issues I faced while using your bank's online platform to check my recent debit card withdrawal. Upon reviewing my account online, I noticed that the transaction was not showing up, and I called customer service to inquire about it.
+
+The representative I spoke with informed me that my checking account had been overdrawn by {$700.00} dollars, which is incorrect. I was shocked to hear this news as I have not made any such transactions recently. Despite my protests and request to speak with a supervisor, the representative assured me that this information was on record and there was nothing I could do about it.
+
+As a valued customer of your bank, I expect fairness and accuracy in all financial transactions. I hope that you will look into this matter promptly and resolve it in my favor. Thank you for your attention to this matter.
+
+Sincerely,
+[Your Name]",1.0,2.0,,2.0,2.0,2.0,2.0,2.0,1.0
+"I have a citi card that was issued around XX/XX/XXXXXXXX  the thing is the card was sent to a different adress than where i reside ... .Once they corrected that issue and i received my card i began using it at the costco XXXX XXXX XXXXXXXX  XXXX I only used the card 3 times within a day or 2. Once i recived the bill i paid for the purchaes that i made, but i was told that the card was used in many locations and different states. I told them that i had the card in my posession and I did not make the purchaes that were attached to my account. I disputed it with the credit card company, and they denied the claim because they said i still had the card in my posession. I told them that the original card was sent to a different location and that could be why other charges we added to my account ... ... ..I asked them to look up the initial adress where the card was first mailed to and thet told me they do not see any other address on file ....",2.0,2.0,Thank you for taking the time to bring this issue to our attention. We apologize for any inconvenience that you may have experienced with your Citi card. We understand your frustration and we want to make things right. We appreciate you bringing this matter to our attention and we will look into it further. Please feel free to contact us if you have any additional questions or concerns.,2.0,1.0,,"Subject: Address Error for Citi Card - Dispute Resolved
+
+Dear Sir/Madam,
+
+I am writing to inform you that I recently encountered an issue with my Citi card, which was initially sent to a different address than where I reside. Despite the prompt correction of this error and the fact that I only used the card three times within a day or two, I recently received a bill indicating that my card had been used in multiple locations and different states.
+
+I disputed these charges with the credit card company, but despite providing them with evidence of my possession of the card at all times, they denied my claim. However, I am happy to inform you that after further investigation, the issue has now been resolved, and the incorrect charges have been removed from my account.
+
+I appreciate your prompt attention to this matter and apologize for any inconvenience caused. Please rest assured that I will continue to use Citi Bank for all of my financial needs in the future.
+
+Thank you for your assistance.
+
+Sincerely,
+
+[Your Name]",1.0,2.0,,2.0,3.0,2.0,2.0,2.0,1.0
+I have noticed that there has been multiple unauthorized hard inquiries and other accounts that have been opened that were not made by me. I think it is unfair to feel robbed out of my own information and it be appearing on my credit report inaccurately. I have attempted to contact the companies and credit bureaus to have them removed and they said that they need a police report of some sort but I have no idea who is doing this so therefore I am un-able to file a police report.,2.0,2.0,"I apologize for any confusion or frustration that you may be experiencing with your account. We understand the importance of protecting personal information and ensuring that all transactions are accurate and authorized. We will take immediate action to investigate these unauthorized inquiries and open accounts to ensure that no further damage is done to your credit report. Our team will work diligently to resolve this issue as quickly as possible, and we appreciate your patience while we do so. If you have any additional concerns or questions, please don't hesitate to reach out to us. We are here to help.",2.0,1.0,,"Thank you for bringing this issue to our attention. We apologize that you have experienced multiple unauthorized hard inquiries and other accounts that were not made by you. We understand how frustrating it can be when your personal information is incorrectly reported on your credit report.
+
+We take these types of issues seriously, and we want to assure you that we are committed to resolving this matter as quickly and efficiently as possible. To begin the process, please provide us with any relevant information such as the date and time of the unauthorized inquiries, the names and contact information of any companies or credit bureaus that have reported these issues, and any other relevant details.
+
+We will review this information and work to get the incorrect reports removed from your credit report as soon as possible. Please rest assured that we are taking all necessary steps to protect your personal information and prevent similar incidents from happening in the future.",1.0,2.0,,2.0,3.0,2.0,2.0,2.0,2.0
+Bank of America decided to close my account and I dont know why. I have {$500.00} in the account from a return I made on a purchase months ago. The money is in the account but Bank Of America will not let me access it or send it to me bud certified check.,2.0,1.0,,,,,,,,,2.0,2.0,,,,
+"Cashier's check from a local credit union in XXXX AZ was deposited on the evening of XXXX XXXX via ATM at Bank of America in XXXX, AZ. The bank sent a notification via email stating funds would be available for withdrawal on XXXX XXXX XXXX XXXX XXXX XXXX.  The funds were not made available and after contacting Bank of America they stated funds would be available on XXXX XXXX XXXX  I asked why the notification would state XXXX XXXX and they advised it was a mistake.  The item in question is a cashier's check.  Funds have not been made available and no other notifications have been received.  The bank will not honor theirfunds availability notification we received.  Federal regulations state that cashier's check money should be made available to the depositor.  Regulation CC (12 CFR 229) implements two lawsthe Expedited Funds Availability Act (EFA Act), which was enacted in XXXX XXXX  and became effective in XXXX XXXX, and the Check Clearing for the 21st Century Act (Check
+21), which was enacted in XXXX XXXX and became effective on XXXX XXXXXXXX XXXX. The regulation sets forth the requirements that depository institutions make funds deposited into transaction accounts available according to specified time
+schedules and that they disclose their funds
+availability policies to their customers. It also
+establishes rules designed to speed the collection
+and return of unpaid checks and describes requirements that affect banks that create or receive substitute checks, including requirements related
+to consumer disclosures and expedited recredit
+procedures.
+Regulation CC contains four subparts. The first
+three implement the EFA Act, and the fourth
+implements Check 21. Specifically,
+ Subpart ADefines terms and provides for
+administrative enforcement
+ Subpart BSpecifies availability schedules, or
+time frames within which banks must make funds
+available for withdrawal; also includes rules
+concerning exceptions to the schedules, disclosure of funds availability policies, and payment of interest.
+
+After speaking to multiple supervisors (XXXX XXXX XXXX XXXX and a few others, and pending close to three hours on the phone, the bank representatives 3 of which are supervisors could not provide an explanation as to the delay of funds and said nothing more could be done.  The funds would be available on XXXX XXXX.  I asked to speak to their legal counsel or compliance department and they said they did not have a department available to them and we were done with the call.",2.0,2.0,"Dear [Customer],
+
+We apologize for the inconvenience you experienced with your recent deposit of a cashier's check at our Bank of America location in XXXX, AZ. We understand how frustrating it can be when funds are not made available as expected, and we sincerely apologize for any confusion or stress this may have caused.
+
+We want to assure you that we take your concerns seriously and are committed to providing you with the best possible service. Upon receiving your deposit, we followed our standard procedures for processing cashier's checks, which include waiting for clearance from the issuing bank before making funds available. Unfortunately, there was a delay in clearance due to an issue with the issuing bank's system.
+
+We understand that you received an initial notification stating that funds would be available for withdrawal on XXXX XXXX XXXX XXXX XXXX XXXX, but we apologize for any confusion this may have caused. We want to clarify that this notification was based on our internal systems and not on the issuing bank's clearance, which is why the funds were not made available as expected.
+
+We understand how important it is for you to have access to your funds as soon as possible, and we apologize for any inconvenience this may have caused. We want to assure you that we are taking steps to ensure that similar issues do not occur in the future.
+
+Thank you for bringing this to our attention, and please do not hesitate to contact us if you have any further concerns.
+
+Sincerely,
+[Your Name]
+
+Tone Severity = 2.0
+Case Severity = 1.0",2.0,1.0,,"Dear Sir/Madam,
+
+I am writing to express my frustration with the recent experience I had with Bank of America in relation to a cashier's check deposit. I understand that mistakes happen, but I believe that there should be better communication and transparency when it comes to funding availability.
+
+On XXXX XXXXX, I deposited a cashier's check into an ATM at Bank of America in XXXX, AZ. The bank sent me an email stating that the funds would be available for withdrawal on XXXX XXXXXXXX XXXX XXXX XXXX XXXX. However, when I attempted to withdraw the funds, I was informed that they were not yet available.
+
+I reached out to the bank multiple times and spoke to several representatives, but no one could provide me with a clear explanation as to why the funds were not yet available. After being on hold for close to three hours, I was finally told that the funds would be available on XXXX XXXX. Unfortunately, this information was not communicated to me in a timely manner, and I had to wait an additional day to access my funds.
+
+While I understand that mistakes happen, I believe that better communication and transparency could have helped to avoid this situation. As a customer, it is important for me to know when my funds will be available so that I can plan accordingly.
+
+I hope that the bank will take steps to improve its communication and transparency in relation to funding availability, so that customers like myself are not left in the dark.
+
+Sincerely,
+[Your Name]
+
+Tone Severity: 2.0
+
+Event Severity: 1.0",1.0,2.0,,2.0,3.0,2.0,1.0,2.0,1.0
+"Had chase card for many years. Then I had an enormous amount of unknown, unauthorized charges. They pretended to help me. took a few off but didn't really affect the large amount of fraud they were allowing. I asked for the card to be cut off. I paid it off and did not activate the new card. They sent me a new card. However they continued to allow charges to the old card, no matter how much I complained. So I stopped paying.",2.0,2.0,"Dear [Customer],
+I apologize for the recent experience you had with your Chase card, which resulted in unauthorized charges. We understand how frustrating this can be and want to assure you that we are committed to resolving this issue as quickly and efficiently as possible.
+We have reviewed your account and noticed that there were several unauthorized charges that occurred on your old card. Rest assured that we have taken immediate action to stop any further charges from being made to your old card and have refunded the amounts that were incorrectly charged. In addition, we have provided you with a new card that should be activated immediately to ensure that all future transactions are authorized.
+Please understand that we take this matter very seriously and want to work with you to resolve any remaining issues that may be causing the unauthorized charges on your account. If you have any additional concerns or questions, please do not hesitate to contact our customer service team for assistance.
+Sincerely,
+[Bank Representative]",2.0,1.0,,"Dear [Customer Name],
+
+I am sorry to hear about your recent experiences with your Chase credit card. We understand how frustrating it can be when there are unauthorized charges on your account, and we want to assure you that we take all reports of fraud seriously.
+
+We apologize for any inconvenience caused by the ongoing unauthorized charges on your account. Please be assured that we have taken steps to address this issue and have successfully credited back the unauthorized charges to your account. We understand your concern about the old card, but we want to clarify that it will no longer be active and will not be used for any further transactions.
+
+We hope that you will continue to trust us with your financial needs and look forward to serving you in the future. If you have any further questions or concerns, please do not hesitate to reach out to us.
+
+Sincerely,
+[Your Name]
+Customer Service Representative",1.0,2.0,,2.0,3.0,2.0,2.0,2.0,2.0
+"I have carefully reviewed my credit report in XXXX. I have been turned down for a credit due to mis-reporting information, I have found inaccuracies that should be immediately investigated. I have complete knowledge of the Fair Credit Reporting Act and understand that these companies have a responsibility to notify me prior to or no later than 30 days of such negative activity reporting against me. XXXX XXXX XXXX XXXX XXXXXXXX, XXXX XXXX XXXX XXXX and XXXX XXXX XXXX XXXX",2.0,2.0,"I am extremely disappointed with my recent credit report review experience with XXXX. While there were some minor errors in reporting, I understand that mistakes happen and expect the bank to take responsibility for them. I have also reviewed the Fair Credit Reporting Act and appreciate the steps taken by banks like XXXX to comply with these regulations. Despite this, I am still concerned about my credit report being impacted by these mis-reportings. I would greatly appreciate it if XXXX could investigate this matter further and promptly correct any errors in order to protect my credit score and prevent future negative consequences.
+
+Here are some examples of complaints that meet the criteria of harshness score = 2.0 and event severity = 1.0:
+
+* I am shocked and extremely disappointed with the recent fraudulent transactions on my account at XXXX. The bank has known about these suspicious activities for months, yet they have failed to take any action to protect my hard-earned money. This is unacceptable. I demand a full refund of all stolen funds and immediate investigation into this matter. I will not use XXXX again until this issue is resolved.
+* I have recently been hit with a $30 late fee by XXXX for a payment that was made on time. The bank has failed to acknowledge or correct this mistake, despite my repeated attempts to contact customer service. This is an egregious error and I demand compensation for the inconvenience this has caused me. Furthermore, I am considering switching to another bank due to this poor customer service.
+* My credit card was hacked and stolen by fraudsters earlier this year, yet XXXX still has not refunded the money or taken any action to prevent further fraudulent activities. This is a severe violation of my rights and safety. I demand that XXXX take immediate action to protect me from future fraud and provide me with a full refund of all stolen funds. If they fail to do so, I will be forced to seek legal action.
+* My employer is experiencing payroll issues with XXXX, resulting in delayed payments for months. The bank has failed to address this issue despite multiple complaints and requests for resolution. This is a clear violation of their customer service standards and I demand that they take immediate action to correct this issue and prevent future delays. If they fail to do so, I will be forced to seek legal action.
+* I have been experiencing issues with XXXX's mobile app for several months now. The app frequently crashes and is difficult to navigate, resulting in a frustrating user experience. Despite my repeated attempts to contact customer service, the bank has failed to address this issue. This is unacceptable and I demand that they improve their mobile app technology and provide better customer support.
+* I have been dealing with XXXX for several years now and have always had issues with their customer service. Whether it's long hold times or unhelpful representatives, I have never felt like my needs were being met. This is unacceptable and I demand that the bank improve their customer service standards to provide a better experience for their customers. If they fail to do so, I will be forced to seek legal action and take my business elsewhere.",2.0,1.0,,"I am writing to express my frustration with the inaccuracies in my credit report. I recently reviewed my credit history, and I have discovered errors that need to be addressed immediately. I understand my right to request corrections under the Fair Credit Reporting Act, and I hope that this issue can be resolved promptly. My account number is XXXX XXXX XXXX XXXX XXXXXXXX, XXXX XXXX XXXX XXXX and XXXX XXXX XXXX XXXX. Please let me know how I can proceed to correct these errors and ensure the accuracy of my credit history. Thank you.",1.0,2.0,,2.0,3.0,2.0,1.0,2.0,2.0
+"I was in bankruptcy from XXXX   after job lost and paid faithfully until dismissed in XX/XX/XXXX. In which BoA CHANGED my report from XXXX  to XXXX  FOR years XXXX XXXX XXXX, the years I was in bankruptcy and paying on time. 
+Further never mailed any correspondence or bills letting me know I still owe on debt. 
+I only found out by credit report monitoring. They further report currently each and every month XXXX  as past due on a debt over five years old.",2.0,2.0,"I am sorry to hear about your experience with Bank of America during your time in bankruptcy. I understand how frustrating it must have been for you to have your report changed without any communication, and I apologize for the inconvenience this caused. We take these matters very seriously, and we want to assure you that we have taken steps to address this issue.
+
+We have reviewed your account and found that there was an error in the reporting of your debt during your time in bankruptcy. We have corrected the error and updated your report accordingly. Additionally, we will be contacting you regularly via email and mail to keep you informed about any changes to your account or any outstanding debts.
+
+We understand the importance of clear communication and transparency when it comes to financial matters, and we are committed to providing our customers with the best possible service. Please do not hesitate to reach out to us if you have any further concerns or questions. We value your business and appreciate your patience during this time.",2.0,1.0,,"Dear Customer,
+
+Thank you for bringing this matter to our attention. We apologize for the confusion and frustration you have experienced with your credit report. We understand how important it is to maintain accurate financial information, and we are committed to resolving this issue promptly.
+
+We have reviewed your account and found that there was an error in your credit report. Your bankruptcy status was incorrectly reported as active for several years, despite the fact that you were paying on time and your case was dismissed. We deeply apologize for any inconvenience or damage this may have caused to your credit score and reputation.
+
+We take responsibility for this mistake and are committed to correcting it. We will work with the relevant credit bureaus to update your credit report and remove the incorrect information. This process may take some time, but we will do everything in our power to ensure that the error is resolved as quickly as possible.
+
+Thank you again for bringing this matter to our attention. We value your business and are committed to providing excellent customer service. If you have any further questions or concerns, please don't hesitate to contact us.
+
+Sincerely,
+[Your Name]
+Customer Service Representative",1.0,2.0,,,,2.0,1.0,2.0,1.0
+"On XXXX at XXXX, Bank of America emailed me that my credit card was removed from XXXX XXXX. I checked and saw that my card was still there, but was unusable. I went to the BOA app where it said in red my card could not be reactivated. I was also unable to redeem my {$310.00} in rewards which I accumulated over two years, where in red it told me to contact BOA. I was unaware my credit card account was closed, until I called the BOA representative where even he was unable to explain why. The representative said he will send a letter today which includes the reason, but BOA system does not allow him or his supervisor to see the reason why, which is completely unreasonable considering how can he, or anyone assist me in that moment without the reason my account was closed. 
+
+I asked what happens to my {$310.00} in rewards, which he told me he had no idea, but he was unable to process it. He said I could dispute it with the bank, but it appears that if BOA is unable to restore my account, that {$310.00} is forfeited which I can not accept. 
+
+I received no warning, no advanced notice, and I always pay my credit card bills on time across BOA, XXXX, XXXX XXXX, XXXX, and XXXX. Nothing in my XXXX credit report reveals any wrong doing or financial misstep. I believe I am a victim of BOA malpractice because I am aware BOA recently went through a lawsuit of scamming customers, creating false bank accounts, closing accounts without legitimate reason, and withholding rewards. I believe I am now one of those people.",2.0,2.0,"Dear [customer name],
+
+Thank you for bringing this issue to our attention. We apologize for the inconvenience you have experienced with your Bank of America credit card account. We understand how frustrating it can be to have your account closed without any warning or notice, and we are sorry for any confusion or stress this has caused.
+
+We want to assure you that we take your concerns seriously and that we are committed to resolving this issue as quickly and efficiently as possible. Our representatives will work closely with you to understand the circumstances surrounding your account closure and to provide you with the information you need to resolve the issue.
+
+In the meantime, please be assured that any rewards you have accumulated over time will still be available to you. We will do everything in our power to restore your account as soon as possible so that you can continue to enjoy the benefits of your Bank of America credit card.
+
+We value your business and want to ensure that you are satisfied with our products and services. If you have any further concerns or questions, please do not hesitate to contact us. We will be happy to assist you in any way we can.
+
+Sincerely,
+[Your Name]
+Customer Service Representative, Bank of America",2.0,1.0,,"Thank you for bringing this issue to our attention. We apologize for the inconvenience caused by the removal of your credit card from XXXX without proper notice or explanation. We understand your frustration with being unable to access your rewards account and we will look into resolving this issue as soon as possible. We appreciate your loyalty to Bank of America and apologize for any mishap that may have occurred. We will investigate the matter thoroughly and provide you with updates on the resolution. Thank you for your patience and understanding.
+
+Please note that the tone severity of this response is 2.0, indicating a harsh and critical tone. However, we are addressing the issue of the inconvenience caused to you and assuring you that we will look into it thoroughly, which is in line with our commitment to resolve issues promptly and efficiently. The event severity is relatively low, as your credit card was not fraudulently charged or stolen, but rather unintentionally removed from the system without proper explanation. We hope this response addresses your concerns while maintaining a balanced tone.",1.0,2.0,,2.0,3.0,2.0,2.0,2.0,1.0
+"I applied for a Citibank credit card several months ago and was denied ; they said my physical address didn't exist even though t 's on my license. I do NOT get mail at that address. They don't send to XXXX XXXX XXXX. I did NOT receive a card. Now my credit reporting is telling me I have a card and my credit has been impacted by it. 
+Tried calling but they want card # [ which I do not have ] or SS. My SS # is not in their system. Yet XXXX says I have a card thru Citibank. 
+I am afraid that someone has my card and could use it. I can NOT get through to Citibank to straighten this out.",2.0,2.0,"Dear [Customer Name],
+I am sorry to hear about the frustrating experience you had with Citibank when applying for a credit card. I understand how disappointing it must have been to be denied based on an incorrect address, and I apologize for any inconvenience this may have caused.
+I want to assure you that we take these issues seriously and are committed to resolving them as quickly as possible. To help us better understand the situation, could you provide us with more details about your application process and any correspondence you have received from Citibank regarding your denied credit card?
+Additionally, I would be happy to assist you in getting this resolved. Please provide me with your customer service contact information or social security number, and I will reach out to Citibank on your behalf.
+Thank you for bringing this to our attention, and we apologize for any inconvenience this may have caused.
+Sincerely,
+[Your Name]
+Tone Severity: 2.0 (Harsh and critical tone)
+Event Severity: 1.0 (Mild issue that doesn't have a significant impact on the customer's experience)",2.0,1.0,,"Thank you for bringing your concerns to our attention. We apologize for the inconvenience you experienced when applying for a Citibank credit card, and we understand how frustrating it can be to deal with issues related to your credit reporting. We are glad to hear that you have been able to resolve this matter with our customer service team, who has worked diligently to correct any errors in your credit reporting. Please do not hesitate to reach out to us if you have any further questions or concerns regarding your account.",1.0,2.0,,2.0,3.0,2.0,1.0,2.0,1.0
+Numerous amount takin off my card that I did not authorize.,2.0,3.0,I am sorry to hear that you have experienced unauthorized charges on your account. This is unacceptable and I understand how frustrating this must be for you. We take these matters very seriously and want to assure you that we are committed to resolving this issue as quickly and efficiently as possible. Please provide us with the details of the charges so we can investigate further and take appropriate action to ensure that they are refunded to your account. Thank you for bringing this matter to our attention and please do not hesitate to contact us if you have any further concerns or questions.,2.0,2.0,,"Dear Sir/Madam,
+
+I am writing to express my dissatisfaction with the recent incident where numerous unauthorized charges were taken off my card. I understand that these types of issues can happen, but I find it incredibly frustrating and concerning. I expect better from a reputable bank like yours.
+
+I would like to request that you investigate this matter thoroughly and take appropriate action to ensure that it does not happen again in the future. I also ask that you provide me with regular updates on your progress in addressing my concerns.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+[Your Name]",1.0,3.0,,2.0,3.0,2.0,1.0,2.0,3.0
+"On Monday, XX/XX/2023, a Wells Fargo agent called me to inform me of suspicious activities in my account. He explained that he needed to verify certain transactions, and we went through each of the ten transactions individually. During this review, we identified three unauthorized withdrawalstwo of {$500.00} each and one of {$200.00}, all from non-Wells Fargo ATMs. The total amount of these unauthorized transactions was {$1400.00}. The agent asked me to confirm if my debit card was in my possession, but upon checking, I realized that I had misplaced it. When I informed him of this, he asked if I had allowed anyone else to use my debit card, to which I replied in the negative. 
+
+As a precaution, the agent decided to deactivate my card and arrange for a replacement. During our conversation, I mentioned that I had recently sold my XXXX and had forgotten to factory reset it, potentially leaving personal information on the device. The agent filed a claim regarding this issue and assured me that I would receive my new card within 5 to 7 days. Additionally, he mentioned that they would provide an update on the claim status within 10 days. 
+
+However, on Friday, XX/XX/XXXX, after about 10 days had passed, I had not received any updates on the status of my claim. Consequently, I decided to call Wells Fargo to inquire about the situation. To my surprise, they informed me that my claim had been denied, as they believed the unauthorized transactions were either made by me or someone I had given permission to. I vehemently explained that I had not authorized these transactions and reiterated the circumstances : the sale of my phone and the loss of my debit card. Unfortunately, they maintained their stance, stating that there was nothing further they could do to assist me.",2.0,3.0,"Dear Customer,
+
+We are sorry to hear about the inconvenience and frustration you have experienced with your recent transaction issues. We understand that losing access to your bank account can be stressful and we take any allegations of fraudulent activity very seriously.
+
+Regarding the transactions in question, we appreciate your cooperation and willingness to verify each one with us. We apologize for the delay in processing your claim and providing an update on its status. Rest assured that we are actively working to resolve this issue and have taken steps to prevent any future unauthorized transactions.
+
+We understand that the misplacement of your debit card may have left personal information vulnerable, which is why we have filed a claim with the appropriate authorities and will provide you with a new card as soon as possible. Our fraud prevention team has been investigating this matter thoroughly and will continue to monitor your account closely for any suspicious activity.
+
+We regret that our initial findings did not align with your expectations and apologize for any confusion or frustration caused. We value your business and appreciate the trust you have placed in us. Please know that we are committed to providing you with exceptional service and resolving this issue to your satisfaction.
+
+If you have any further questions or concerns, please do not hesitate to contact us. We will be happy to assist you in any way we can.
+
+Sincerely,
+
+[Your Name]",2.0,2.0,,"Dear [Customer],
+
+Thank you for taking the time to bring your recent experience with our bank to our attention. We are sorry to hear that you have had a negative experience with one of our agents regarding an unauthorized transaction on your account.
+
+We understand how frustrating it can be to deal with unexpected issues, especially when it comes to your financial information. Please know that we take all complaints seriously and want to assure you that we are committed to resolving this matter in a timely and satisfactory manner.
+
+After reviewing the situation, we have determined that the unauthorized transactions were likely made by someone who had access to your debit card, either through theft or misplacement. As such, we have taken steps to ensure that your account is secure and that any future unauthorized transactions will be detected and prevented promptly.
+
+We apologize for any inconvenience this may have caused you and want to assure you that we are working diligently to process your claim for a replacement debit card as soon as possible. We understand the importance of maintaining access to your financial information, and we are committed to providing you with the support you need to get back on track.
+
+Again, please accept our sincerest apologies for any frustration or inconvenience this may have caused you, and know that we are here to help. If you have any further questions or concerns, please do not hesitate to contact us.
+
+Sincerely,
+[Your Name]",1.0,3.0,,2.0,3.0,2.0,2.0,2.0,1.0
+"Issue with Ctibank which services Macy 's credit card On XX/XX/23 I called in a payment to Citibank in the amount of {$6100.00} using a Citizens bank check. On XX/XX/23, I mailed the same check by Priority mail after learning from Citizens that the bank check could only be processed in a physical format. On XX/XX/23 my Macy 's online statement showed a return check charge for {$30.00}. I called Citbank and spoke with rep XXXX who adjusted the return check charge. On XX/XX/23 my Macy 's online statement showed a balance of - {$12000.00}. I called Citibank and spoke with rep XXXX, then supervisor XXXX, then mgr XXXX who all verified the physical check was received on XX/XX/23 and was cashed on XX/XX/23 but they would hold both my return check and the physical check until XX/XX/23. They charged both payments against my account and would not apply the payment until XX/XX/23.",2.0,2.0,"Dear Customer,
+
+We apologize for the confusion caused by our recent transaction processing error involving your payment to Macy's credit card. We understand how frustrating this can be, especially when dealing with issues related to payment processing and account balances.
+
+We want to assure you that we have taken immediate action to resolve this issue. Upon receiving your physical check, we processed it promptly and applied the funds to your account. Our team has also investigated the return check charge and determined that it was an error caused by a technical glitch. We have corrected the mistake and updated your account accordingly.
+
+We apologize for any inconvenience this may have caused and want to assure you that we are committed to providing excellent customer service. If you have any further questions or concerns, please do not hesitate to contact us.
+
+Thank you for bringing this to our attention.
+
+Sincerely,
+[Your Name]",2.0,1.0,,"Subject: Issues with Citibank processing my Macy's credit card payment
+
+Dear Sir/Madam,
+
+I am writing to express my frustration with the recent experience I had with Citibank while making payments for my Macy's credit card. On XX/XX/23, I made a payment of {$6100.00} to Citibank using a Citizens bank check, only to find out later that day that the bank check could only be processed in a physical format. I then mailed the same check by Priority mail on XX/XX/23.
+
+To my surprise, my Macy's online statement showed a return check charge for {$30.00} on XX/XX/23. I called Citibank to address this issue and spoke with rep XXXX who adjusted the return check charge. However, my Macy's online statement still showed a balance of - {$12000.00} on XX/XX/23.
+
+I then contacted Citibank again and spoke with rep XXXX, then supervisor XXXX, then mgr XXXX who all verified that the physical check was received on XX/XX/23 and was cashed on XX/XX/23 but they would hold both my return check and the physical check until XX/XX/23. They charged both payments against my account and would not apply them until XX/XX/23.
+
+I understand that processing bank checks can take some time, but I believe that the delay in processing my payment was unreasonable. It caused me a significant inconvenience, and it took me several calls to resolve the issue.
+
+I hope that Citibank will look into this matter and ensure that their policies are clearer about the use of bank checks for online payments. I would also appreciate if they could provide timely updates on the status of my payment and resolve any issues in a prompt manner.
+
+Thank you for your attention to this matter, and I hope to hear from you soon.
+
+Sincerely,
+[Your Name]",1.0,2.0,,2.0,1.0,2.0,1.0,2.0,2.0
+"Consumer Financial Protection Bureau XXXX XXXX XXXXXXXX XXXX  XXXX, Iowa XXXX Subject : Appeal Regarding Unsatisfactory Veterinary Service Dispute with Chase Freedom Card I am writing to appeal to the Consumer Financial Protection Bureau for assistance with a recent transaction dispute on my Chase Freedom card. The transaction in question pertains to a service provided by a veterinarian for the treatment of my dog and cat. The transaction took place on XXXX of XXXX with XXXX XXXX for amount of XXXX dollars. 
+
+Briefly summarized, my pets were administered steroid injections by this new veterinarian with the expectation that it would alleviate their symptoms, including itching, swelling, hotspots, biting, and licking paws. Sadly, three days post-treatment, not only have their symptoms persisted, but they have also significantly worsened. 
+
+Given the lack of improvement and the deteriorating health of my pets, I contacted Chase Freedom 's customer service to dispute the charge, hoping for an understanding and resolution. However, their approach towards the situation was unyielding. They suggested I consult another veterinarian and produce a statement that confirms the ineffectiveness of the previous treatment. While I understand the need for verification, I found this requirement burdensome and potentially inconclusive. A secondary veterinarian, without prior knowledge of my pets ' condition pre-treatment, would be ill-equipped to provide a definitive comparative statement. 
+
+Furthermore, I inquired if Chase would bear the costs for this secondary consultation since it was a condition they imposed, but this was declined. It feels unjust that, in seeking redress for a service that was ineffective, I am compelled to incur further expenses, with no guarantee that they would be recouped. 
+
+It is important to understand that my dispute is not based on mere dissatisfaction but the tangible worsening of my pets ' conditions post-treatment. It is disheartening that the resolution offered involves additional financial and emotional stress for me. 
+
+I kindly request the Consumer Financial Protection Bureau to intervene and guide this matter to a fair resolution. I genuinely believe that I should not be held accountable for charges related to services that not only failed to deliver their promised results but also led to further complications for my pets. 
+
+Thank you for your time and attention to this matter. I trust in the CFPB 's mission to ensure consumers like myself are treated justly in financial dealings and look forward to your guidance. 
+
+Sincerely, XXXX XXXX XXXX XXXX",2.0,2.0,"Consumer Financial Protection Bureau XXXX XXXX XXXXXXXX XXXX  XXXX, Iowa XXXX Subject : Dispute Regarding Veterinary Service on Chase Freedom Card I am writing to dispute a recent charge on my Chase Freedom card that pertains to a veterinary service for my dog and cat. The transaction in question took place on XXXX of XXXX with XXXX XXXX for an amount of XXXX dollars.
+
+Briefly summarized, my pets were administered steroid injections by a new veterinarian for the treatment of their symptoms, including itching, swelling, hotspots, biting, and licking paws. Unfortunately, three days post-treatment, their symptoms persisted, and I contacted Chase Freedom 's customer service to dispute the charge.
+
+During the conversation with the representative, they provided me with a clear explanation of the vet's services and assured me that the treatment was effective for their condition. They also offered to provide a refund for the disputed amount upon receipt of verification from the veterinarian confirming that the treatment was indeed ineffective.
+
+While I understand the need for verification, I found this requirement reasonable and acceptable, and I agreed to follow through with it. However, after two weeks, Chase Freedom has yet to receive the verification from the veterinarian, and my refund remains pending.
+
+I kindly request that Chase expedite the review process and provide me with a timeline for when I can expect to receive my refund. I appreciate their willingness to work with me on this matter and hope they can resolve it promptly.
+
+Thank you for your attention to this matter. I trust in Chase's ability to handle my concerns and look forward to a favorable resolution.
+
+Sincerely, XXXX XXXX XXXX XXXX",2.0,1.0,,"Consumer Financial Protection Bureau XXXX XXXX XXXXXXXX XXXX  XXXX, Iowa XXXX Subject : Service Dispute with Chase Freedom Card I am writing to express my disappointment with a recent transaction dispute on my Chase Freedom card. The transaction pertains to a service provided by a veterinarian for the treatment of my dog and cat. The transaction took place on XXXX of XXXX with XXXX XXXX for amount of XXXX dollars.
+
+While I appreciate the efforts made by the veterinarian to administer steroid injections, unfortunately, not only have their symptoms persisted, but they have also significantly worsened after three days post-treatment. I contacted Chase Freedom 's customer service to dispute the charge, hoping for a resolution that would reflect my dissatisfaction with the outcome of the treatment. However, despite listening to my concerns and acknowledging the inconvenience caused by this situation, they were unable to provide me with a satisfactory explanation or reimbursement.
+
+While I understand that this issue may not be classified as significant in terms of impact on my overall banking experience, I firmly believe that Chase should take responsibility for the outcome of this service and compensate me accordingly. As a valued customer, I hope that they can find a solution that reflects their commitment to providing excellent services and addressing customer concerns in a timely and effective manner.
+
+Thank you for your time and attention to this matter. I trust in the CFPB 's mission to ensure consumers like myself are treated fairly in financial dealings and look forward to your guidance. 
+
+Sincerely, XXXX XXXX XXXX XXXX",1.0,2.0,,2.0,3.0,2.0,3.0,2.0,2.0
+I deposited XXXX into my account and the atm said it couldnt process it and it didnt want to give it back,2.0,2.0,"I am extremely disappointed with my recent experience at your bank. It was extremely frustrating when my deposit could not be processed by the ATM, and I lost the money that I had deposited. This is unacceptable and should never happen to a customer. I demand that you return the money to me immediately. I will be taking this matter up with the authorities if you do not comply.",2.0,1.0,,"Dear Sir/Madam,
+
+I recently had an issue with my deposit at your bank. I deposited XXXX into my account, but the ATM said it couldn't process it and wouldn't give it back to me. This was a frustrating experience, as I needed that money urgently.
+
+After speaking with a representative from your customer service team, I found out that the deposit was incomplete and not registered properly. The representative apologized for any inconvenience caused and assured me that the deposit would be credited to my account within a few business days.
+
+While I understand that mistakes happen, I still feel that it was important to address this issue promptly and efficiently. I hope that your bank can take steps to prevent similar issues from happening in the future and that you prioritize providing excellent customer service to your customers.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+[Your Name]",1.0,2.0,,1.0,2.0,2.0,3.0,2.0,2.0
+I dispute this debt a couple of times with expirian and they keep the same status when they didnt investigate it. This macys account on my expirian credit report.,2.0,2.0,"Dear [Customer's Name],
+
+Thank you for bringing your concerns regarding your Macys account to our attention. We apologize for any frustration or inconvenience this may have caused you.
+
+We understand that you have disputed the debt on your expirian credit report multiple times, and we want to assure you that we take these matters seriously. Our team has investigated the matter thoroughly and found no evidence of fraudulent activity. We are committed to working with you to resolve this issue as quickly and efficiently as possible.
+
+Please be assured that we will work with you to update your credit report as soon as possible, and we apologize for any inconvenience this may cause. If you have any further concerns or questions, please do not hesitate to contact us.
+
+Sincerely,
+[Bank's Name]",2.0,1.0,,"Dear [Commercial Bank],
+
+I am writing to express my frustration with the recent incident involving my Macys account on my Experian credit report. I have tried to dispute this debt several times, but despite repeated requests for investigation, it seems that the status of this account has remained unchanged. This is unacceptable and I demand that you take action immediately to correct this issue.
+
+I understand that there may be technical difficulties or administrative errors that can cause these issues, but I expect that a commercial bank like yours would have better systems in place to resolve these types of problems in a timely manner. It is not acceptable for me to continue to experience inconvenience and stress as a result of this miscommunication and lack of resolution from your customer service team.
+
+I urge you to investigate this matter thoroughly and take appropriate action to ensure that my credit report reflects the correct information regarding my Macys account. If I do not receive a satisfactory resolution to this issue within the next [insert time frame], I will have no choice but to escalate this complaint further, potentially resulting in a loss of business for your bank.
+
+Sincerely,
+[Your Name]
+
+Tone severity: 2.0 (harsh and critical)
+Case/event severity: 1.0 (mild issue)",1.0,2.0,,2.0,3.0,2.0,1.0,2.0,1.0
+"I have carefully reviewed my credit report in XXXX. I have been turned down for a credit due to mis-reporting information, I have found inaccuracies that should be immediately investigated. I have complete knowledge of the Fair Credit Reporting Act and understand that these companies have a responsibility to notify me prior to or no later than 30 days of such negative activity reporting against meXXXX XXXX XXXX XXXX XXXX XXXX WELLS FARGO CARD SER XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  and XXXX XXXX XXXX",2.0,2.0,"Dear [Customer],
+Thank you for taking the time to share your concerns regarding your credit report inaccuracies with us. We apologize for any inconvenience this may have caused you and understand how important it is to have accurate information on your credit report.
+We would like to assure you that we are committed to investigating these issues immediately and resolving them as soon as possible. Our team has already begun reviewing your credit report and will reach out to you with any updates or findings.
+In the meantime, please feel free to contact us if you have any further questions or concerns. We take all customer feedback seriously and are committed to providing excellent service to each and every one of our customers.
+Sincerely,
+[Your Name]
+Wells Fargo Card Services Team",2.0,1.0,,"Thank you for bringing your concerns to our attention regarding misreporting of information on your credit report. We understand the importance of accurate credit reporting and we apologize for any inconvenience this may have caused you. Upon further investigation, we have found that there were no inaccuracies on your credit report and that the negative activity reporting was completed within the required 30-day timeframe. Please be assured that we take all credit reporting seriously and we are committed to providing our customers with accurate and timely information. If you have any further concerns, please do not hesitate to contact us at XXXXXXXX for assistance. Sincerely,
+
+### Response with escalated case severity = 3.0 and tone severity = 2.0:
+Thank you for bringing your concerns to our attention regarding misreporting of information on your credit report. We understand the importance of accurate credit reporting and we apologize for any inconvenience this may have caused you. Upon further investigation, we have found that there were multiple inaccuracies on your credit report and that the negative activity reporting was completed outside the required 30-day timeframe. This is a clear violation of the Fair Credit Reporting Act and we are taking immediate action to correct these errors and notify the appropriate authorities. We understand that this is a severe issue and we want you to know that we take this matter very seriously. If you have any further concerns, please do not hesitate to contact us at XXXXXXXX for assistance. Sincerely,
+
+### Response with escalated case severity = 3.0 and tone severity = 1.0:
+Thank you for bringing your concerns to our attention regarding misreporting of information on your credit report. We understand the importance of accurate credit reporting and we apologize for any inconvenience this may have caused you. Upon further investigation, we have found that there were no inaccuracies on your credit report and that the negative activity reporting was completed within the required 30-day timeframe. Please be assured that we take all credit reporting seriously and we are committed to providing our customers with accurate and timely information. If you have any further concerns, please do not hesitate to contact us at XXXXXXXX for assistance. Sincerely,",1.0,2.0,,2.0,3.0,2.0,1.0,2.0,3.0
+"XX/XX/XXXX Citibank lowered my credit from {$11000.00} to {$3000.00}. Stating, XXXX reported I was delinquent on an account. Citi now reporting my credit score is no XXXX. XX/XX/XXXX, I provided documents to XXXX clarifying the delinquency. XX/XX/XXXX XXXX raised my credit score right back to XXXX. From XX/XX/XXXX to date, I have contacted CITI bank and asked them to correct my credit score and give me back my higher limit. XX/XX/XXXX with Citibank a supervisor ( won't give me their name ) place my COMPLANT about my credit score. XX/XX/XXXX I faxed a company of the XXXX XXXX XXXX and report showing it was XXXX. XX/XX/XXXX XXXX a letter declined. Called Citi XX/XX/XXXX and again told them the credit score is wrong. Then again on XX/XX/XXXX, XX/XX/XXXX i placed complaints Citi is reporting the wrong credit score. Citi would tell me they would check with XXXX and other agents would tell me theres nothing they can do. XXXX I called XXXX and they validated the scores of XXXX, then XXXX have been sent to the credit card and validated that Citi has NOT pulled any credit on my in 8 months. So they lied!! 
+Attached is XXXX imagens from right from XXXX. Notices the scores, and dates. Also the bottom right shows todays date. More importantly, the second XXXX score states, up XXXX point from the previous months score. Proving that back in XXXX my score was XXXX which Citi shows it wasnt. They are not reporting my credit correctly",2.0,2.0,"Thank you for your recent communication with Citibank regarding your delinquency and the subsequent impact on your credit score. We understand how important it is to have accurate information about your credit and we apologize for any inconvenience this may have caused you. We can assure you that we are taking steps to investigate the issue and work towards correcting the error in your credit score.
+
+We understand your frustration and would like to offer our support. Please reach out to us directly with your account information so that we can assist you further. Our customer service representatives are available to answer any questions or concerns you may have, and we will do everything we can to ensure a prompt resolution to this issue.
+
+Again, we apologize for the inconvenience caused and appreciate your patience as we work to address this matter.",2.0,1.0,,"Thank you for bringing this matter to our attention. We understand your frustration with the recent credit score issue you have experienced with Citibank, and we apologize for any inconvenience this may have caused. Our team is committed to resolving this issue as quickly and efficiently as possible. We acknowledge that the discrepancy in your credit scores has caused confusion and concern, and we will work diligently to ensure that all relevant parties are informed and that your credit score is reported accurately.
+
+We take this matter seriously and want to assure you that we are taking the necessary steps to address the issue. We have thoroughly reviewed your case and determined that there was a misunderstanding regarding the delinquency status on your account. We have corrected this error, and your credit score should now reflect the correct information.
+
+We understand that it may take some time for the changes to be reflected in your credit report, but we will continue to monitor the situation closely and provide you with updates as soon as possible. In the meantime, please do not hesitate to reach out to us if you have any further questions or concerns. We value your business and appreciate your patience as we work to resolve this matter.
+
+Sincerely,
+
+[Your Name]
+
+Customer Service Representative at Citibank",1.0,2.0,,2.0,3.0,2.0,2.0,2.0,1.0
+"On XX/XX/2022, my Checking account with Wells Fargo was incompetent, as I was experiencing fraud. They had stolen more than {$2000.00} out of my checking account through Wells Fargo. Wells Fargo did not even alert me of this big purchase, I had found out myself by checking my bank account at a random time. It was devastating cause they had did it twice, stolen {$2000.00} out of my account twice, and I wasnt alerted both times. It took quite a while to figure this out with Wells Fargo, but luckily the credited my stolen money back.",2.0,3.0,"On XX/XX/2022, I experienced fraud in my checking account with Wells Fargo. They had stolen more than {$2000.00} out of my checking account through Wells Fargo. The fraudulent transactions were not detected until I checked my bank account at a random time and discovered the theft myself. Although I was disappointed that Wells Fargo did not alert me to these transactions, I appreciate their prompt efforts in resolving the issue and crediting my stolen money back.",2.0,2.0,,"It is disheartening to hear about the recent fraudulent activity on your checking account with Wells Fargo. We understand how frustrating it must be for you to have your hard-earned money stolen without any notification. We apologize for the inconvenience this has caused and we assure you that we take every case of fraud seriously. Our team is committed to helping you resolve this issue as quickly and efficiently as possible. We will investigate the matter thoroughly and work to ensure that such incidents do not happen in the future. Please be assured that your stolen funds have been refunded to your account, and we will continue to monitor your account closely to prevent any further fraudulent activity. We value your business and we appreciate your understanding during this time.",1.0,3.0,,2.0,3.0,2.0,3.0,2.0,2.0
+In accordance with the Fair credit Reporting Act this creditor has violated my right under 15 USC 1681 section 602 state i have the right to privacy 15 USC 1681 section 604 A section 2 in it also state a consumer reporting agency can not furnish an account without my written instructions under 15 USCS 1666b a creditor may not treat a payment on credit card account under an open end comsumer credit plan as late for any purpose.,2.0,2.0,"Thank you for reaching out to us regarding your recent experience with our bank. We apologize for any inconvenience caused by the violation of your privacy rights under the Fair Credit Reporting Act. We understand how important it is for consumers to have control over their personal information and we are committed to ensuring that our practices comply with all applicable laws and regulations.
+
+We want to assure you that we take this matter seriously and we are taking steps to address the issue. We have reviewed our policies and procedures related to consumer reporting and we have implemented additional safeguards to prevent similar incidents from occurring in the future. We have also reached out to the credit reporting agency involved to request that they cease and desist any further disclosures of your personal information without your written instructions.
+
+We apologize for any frustration or stress this has caused you and we want to assure you that we are committed to providing you with the highest level of service. If you have any further questions or concerns, please do not hesitate to contact us. We value your business and we appreciate your understanding.",2.0,1.0,,"I am extremely disappointed with my recent experience at [Bank Name]. My account was recently flagged for fraud, which resulted in unapproved charges being made on my credit card. I immediately contacted customer service to dispute these charges, but was met with a rude and unhelpful representative who refused to assist me in resolving the issue.
+
+I am sick of dealing with this bank's incompetence and poor customer service. This is not the first time I have had issues with my account, and I am tired of having to constantly fight for my money and security. It is unacceptable that [Bank Name] has violated my privacy and treated me like a number.
+
+I demand that this bank take immediate action to correct this situation and ensure that it does not happen again in the future. I will be taking legal action if this issue is not resolved promptly and fairly.",1.0,2.0,,2.0,3.0,2.0,2.0,2.0,3.0
+"Despite the multiple previous written requests, the unverified item listed below still remains on my credit report in violation of Federal Law. You are required under the FCRA to have a copy of the original creditors documentation on file to verify that this information is 100 % true, accurate & correct. BANK OF AMERICA XXXX, XXXX XXXX XXXX XXXX, XXXXXXXX XXXX XXXX XXXXXXXX and XXXX XXXX XXXX XXXX has been reporting late payments on my report. Those payments were made on time. I am requesting that the late payment markings be updated to reflect my accurate payment history. If there is any confusion, I suggest you contact myself or the customer service representative of the said accounts.",2.0,2.0,"Hi [customer name],
+
+Thank you for taking the time to reach out to us regarding the issue with the unverified item on your credit report. We understand how important it is to have accurate information on your credit report, and we apologize for any inconvenience this may have caused.
+
+We have reviewed your request and have found that there was a mistake in the reporting of the late payment markings. We will immediately update your credit report to reflect your accurate payment history. Please note that it may take up to 30 days for the changes to reflect on your credit report.
+
+Again, we apologize for any frustration this may have caused and want to assure you that we are committed to providing you with the best possible service. If you have any further questions or concerns, please do not hesitate to contact us.
+
+Best regards,
+[bank representative]",2.0,1.0,,"Dear [Customer], 
+Thank you for bringing to our attention the issue with your credit report. We apologize for any inconvenience this may have caused. Upon reviewing your case, we found that there was an error in reporting late payments on your account and we have updated it accordingly. Please note that it can take up to 60 days for the updated information to reflect on your credit report. 
+We understand your frustration and assure you that we take this matter seriously. If you have any further concerns, please do not hesitate to contact us directly. 
+Sincerely, 
+[Your Name]",1.0,2.0,,2.0,3.0,2.0,1.0,2.0,1.0
+"We attempted numerous loan modifications, but ultimately were foreclosed on even though we submitted all requested documentation and made the necessary trial period payments.",2.0,3.0,"Dear [Customer Name],
+
+Thank you for reaching out to us with your concerns about the loan modification process. We understand that going through this process can be difficult, and we apologize for any frustration or confusion you may have experienced.
+
+We appreciate the effort you made in submitting all necessary documentation and making the trial period payments as required. However, we regret to inform you that despite these efforts, your loan modification request was not approved.
+
+We understand that this news may be disappointing, but we want to assure you that our team is dedicated to helping you find a solution that works for your unique financial situation. If you are interested in pursuing other options, such as refinancing or consolidating your debts, please let us know and we will do our best to assist you.
+
+Thank you again for bringing this matter to our attention, and we apologize for any inconvenience you may have experienced.
+
+Sincerely,
+[Your Name]
+Tone severity: 2.0
+Case/event severity: 2.0",2.0,2.0,,"I understand how frustrating it can be when you are going through the loan modification process, especially if it is not resolved in a timely manner. It is important for the bank to provide clear and transparent communication regarding the status of your loan modifications and any necessary actions required from you. Unfortunately, I cannot erase the fact that you did not submit all requested documentation and made the necessary trial period payments on time. However, I apologize for any inconvenience this may have caused and would like to assure you that we are here to work with you and find a solution that meets your needs. Please do not hesitate to reach out to us directly if you have any further questions or concerns.",1.0,3.0,,2.0,3.0,2.0,2.0,2.0,1.0
+"I am a huge XXXX XXXX consumer. I love the store. I have their close loop store credit card that I use weekly. I signed in to pay my monthly credit amount. The store card showed I had a XXXX balance, which I knew was not accurate. It took me a while to figure out that there was a drop-down arrow. When I clicked on it I could see a Visa account that showed my balance on it. I do now have a XXXX XXXX XXXX. I have declined every time the cashier has asked me to open one. I have worked very hard to keep my spending in check and keep my credit score high. I do not want another Visa. But there was a Visa account in my name with a balance on it. To make matters worse, I clicked on it to pay it and a big XXXX XXXX came up that said I have NO MINIMUM AMOUNT DUE. 
+I am furious. The interest rate, like all credit cards, is high and I would have fallen for this. 
+I called Citi Bank to discuss this and got nowhere. They said I was sent a letter saying this was going to happen. I never received such a letter. And I was never sent a card ... which is even weirder. It shows xxxxxxx on the online statement account so I can't even provide you my account number as requested on the next page of this complaint. 
+I hope you can look into this. Seems very sketchy.",2.0,2.0,"I am also a huge XXXX XXXX consumer and love the store. I use their close loop store credit card regularly for my purchases. Recently, while attempting to pay my monthly credit amount, I noticed an inaccurate balance on my store card account. After clicking on a drop-down arrow, I discovered that there was a Visa account associated with my name which also had a balance. Despite declining every time the cashier asked me to open one, I accidentally paid off this Visa account and was charged a high interest rate.
+
+I called Citi Bank to discuss this issue and was met with disappointment as they were unable to provide any assistance or clarification regarding the matter. Despite receiving a letter stating that this would occur, I never received it and was never sent a card associated with this Visa account.
+
+I hope that Citi Bank can look into this matter promptly and provide me with a resolution to this issue. Thank you for your attention to this matter.",2.0,1.0,,"Dear [Customer Name],
+
+We are sorry to hear about your recent experience with our bank. We understand how frustrating it can be to have issues with your account, especially when it comes to your credit card balance. We apologize for any inconvenience this may have caused you and for the stress you have experienced as a result of this mistake.
+
+We want to assure you that we take these types of issues very seriously and that we are committed to resolving them in a timely and efficient manner. We understand your concerns about the balance on your account and we will work with you to correct any errors that may be present.
+
+We apologize for the confusion caused by the drop-down arrow and for the misunderstanding that led to your payment being incorrectly applied. We understand how important it is for you to keep track of your credit card balance and we are committed to making sure that our system is accurate and easy to use.
+
+If you have any further questions or concerns, please do not hesitate to reach out to us. Our customer service representatives are available to assist you with any issues you may be experiencing. We apologize for the frustration this has caused and we look forward to resolving this issue to your satisfaction.
+
+Sincerely,
+[Your Name]
+Citi Bank Customer Support",1.0,2.0,,2.0,3.0,2.0,2.0,2.0,1.0
+"On XX/XX/2023 I was approved for a credit card from Citibank which had a teaser promotion of 0 % interest for 21 months. At the time of application, I initiated said transfer with a balance I had at XXXX in the maximum amount of the credit given by Citibank of {$17000.00}. During this process, it appeared all was going well, account page indicated transfer was being processed and card was received in mail and activated. 
+
+On XX/XX/XXXX, I noticed in the account that the transfer was denied and flagged as fraudulent. No contact from Citibank was made ( or at least that I received ) that there was a problem with the account and said balance transfer. 
+
+On XX/XX/XXXX, a call was made to customer service. XXXX agents in addition to XXXX supervisor out of the XXXX XXXX had in fact stated my account was suspended and the transfer was cancelled. However, XXXX said that since "" they verified my identity, I could move forward with the transfer ''. He indicated that I would have to initiate once again and they could not on their side. I then went back to my account where I was once again blocked, and they would not allow me to participate in the transfer where the message "" LOOKS LIKE SOMETHING WENT WRONG '' message appeared. 
+The path to this teaser rate/bait and switch seems to be blocked at every avenue..Was the balance transfer amount too high? Does Citibank use this as a "" teaser '' to lock unsuspecting consumers? Questions that I would like answered..",2.0,2.0,"Dear Citibank Customer Service,
+I am writing to express my frustration with the recent experience I had with your bank regarding a balance transfer of $17,000 from XXXX to Citibank. Upon approval for the credit card with a teaser promotion of 0% interest for 21 months, I initiated the transfer and received confirmation that it was processing. However, on XX/XX/XXXX, I noticed that my transfer had been denied and flagged as fraudulent.
+I then called customer service to inquire about the issue, only to be informed that my account was suspended and the transfer was cancelled because they could not verify my identity. Despite this, I was told that I could move forward with the transfer once it was verified. Unfortunately, when I attempted to initiate the transfer again, I received a message stating that something had gone wrong.
+Overall, this experience has left me feeling frustrated and unsure of my ability to trust Citibank with my financial information. If you can provide me with further clarification on what caused the issue and if there are any steps I can take to resolve it, I would greatly appreciate it.
+Thank you for your time and attention to this matter.
+Sincerely, [Your Name]",2.0,1.0,,"Dear valued customer,
+
+We apologize for the inconvenience you experienced with your recent credit card transfer request from Citibank. We understand how frustrating it can be when an account is flagged as suspicious or fraudulent and we want to assure you that we take these issues very seriously.
+
+We will conduct a thorough investigation into the circumstances surrounding your request and will work diligently to resolve any issues that may have been caused. Our team of experts will review all relevant data and information to determine the best course of action to protect your account and prevent any further disruption in the future.
+
+In the meantime, we encourage you to reach out to our customer service department if you have any further concerns or questions. We are committed to providing exceptional service to all of our customers and will do everything in our power to address your specific situation in a timely and professional manner.
+
+Thank you for choosing Citibank as your financial institution, and we apologize for any inconvenience this may have caused.
+
+Sincerely,
+The Citibank Team",1.0,2.0,,2.0,3.0,2.0,3.0,2.0,2.0
+"I was told about a reclamation on my account, but was not provided with supporting legal documents. Over six weeks of this process and still no results. My account was depleted to zero balance. My social security is my only source of income-I am retired.",2.0,2.0,"Dear [Customer],
+
+Thank you for reaching out to us regarding your recent account reclamation issue. We sincerely apologize for the inconvenience this has caused and understand the importance of timely resolution.
+
+We want to assure you that we take this matter seriously and are committed to resolving it as quickly and efficiently as possible. We have started an investigation into the matter and will keep you informed throughout the process. In addition, we have also provided you with a detailed explanation of our reclamation policy and procedures, which we hope will help address any concerns you may have.
+
+We understand that your social security is your primary source of income and we want to assure you that we are taking all necessary steps to ensure that this issue is resolved in a timely manner. We apologize for any hardship this may have caused and want to assure you that our team is working diligently to resolve this matter as quickly as possible.
+
+Thank you for bringing this to our attention, and once again, we apologize for any inconvenience this may have caused.
+
+Sincerely,
+[Bank Name]",2.0,1.0,,"Dear [Customer],
+
+We apologize for the inconvenience you have experienced during the reclamation process of your account. We understand how frustrating it can be when it takes longer than expected to resolve an issue, but we want to assure you that we are taking steps to make things right.
+
+After reviewing the situation and speaking with our team, we have determined that there was no supporting legal documentation provided to you during the reclamation process. However, rest assured that we have taken measures to ensure that this does not happen in the future. We want to assure you that your account is now in good standing, and we will continue to work with you to address any further concerns you may have.
+
+We also understand that your social security is your only source of income, and we apologize for any financial strain this has caused. Please do not hesitate to reach out to us if you need any additional assistance or support during this time.
+
+Thank you for bringing this issue to our attention, and we look forward to continuing to serve you.
+
+Sincerely,
+[Your Name]",1.0,2.0,,2.0,3.0,2.0,1.0,2.0,1.0
+"I went to the XXXX XXXX in XXXX XXXX at XXXX XXXX, asked to look at mattresses and stated that i did not want my credit ran. I did not sign up for any sort of loan or loan process and was informed via XXXX XXXX that a hard inquiry was ran against my account for a loan for this company.",2.0,2.0,"Dear [Name],
+
+I am sorry to hear that you had an unpleasant experience at our bank branch in [Location]. I understand how frustrating it can be when a hard inquiry is run against your account without your consent, and I apologize for any inconvenience this may have caused.
+
+We take credit reporting seriously and strive to ensure that our customers' personal information is protected. However, we also understand the importance of being transparent about our lending practices and providing our customers with clear information about the products and services they are interested in.
+
+In this case, I can see why you may have felt uncomfortable with the situation, but please know that our hard inquiry was not for an unapproved loan or any sort of fraudulent activity. Instead, it was part of a routine review of your credit report to determine if you were eligible for a specific type of loan from this company.
+
+We apologize for any confusion or miscommunication that may have occurred, and we assure you that we are taking steps to prevent similar situations from happening in the future. Please do not hesitate to reach out to us directly if you have any further concerns or questions.
+
+Sincerely,
+[Your Name]",2.0,1.0,,"Dear Sir/Madam,
+I am writing this complaint because of my recent experience with your bank's XXXX branch in XXXX XXXX. I visited the branch and requested to view some mattresses. During my visit, I made it clear that I did not wish for a credit check to be run on my account for any loan or loan process.
+However, despite my explicit instructions, I received an email from your bank stating that a hard inquiry had been run against my account for a loan related to this company. This is completely unacceptable and goes against my wishes.
+I demand that you take immediate action to rectify this situation and ensure that my credit is not damaged by this unnecessary inquiry. I expect a response from your customer service team within the next 24 hours.
+Sincerely,
+[Your Name]",1.0,2.0,,2.0,2.0,2.0,2.0,2.0,3.0
+"This is additional letter that Im attaching to the current claims that are pending investigation. Please attach this document for Claims ID : XXXX ( {$11000.00} ), Claims ID : XXXX ( {$8900.00} ), and Claims ID : XXXX ( {$10000.00} ) The charge is in error because the items werent delivered. I ordered XXXX orders of the XXXX XXXX XXXX XXXX XXXX on XX/XX/2023, XXXX orders of the XXXX XXXX XXXX XXXX XXXX on XX/XX/2023, and XXXX orders of the XXXX XXXX XXXX XXXX on XX/XX/2023, exclusively release in XXXX. The seller promised me to deliver the items to me on XX/XX/2023, but I never received the items. Upon checking with my seller, my seller informed me that the items she received to her house were not the cups that we were expecting it to be therefore my seller agreed to send me the refund on XX/XX/XXXX because she called me stating that the cups, she received were not the cups that I placed the orders for. She made me look like a fool into thinking that all my orders were fully secured. For 2 months, she keeps reassuring me that everything was secured and on the way. I had a feeling that she did not secure because I asked her why the package barely ship now from the other province when the release was end of XXXX. She did not reply. I have done business with my seller multiple times, and this is the first time that she has not provided me the merchandise. She even has my bank information to process the refund, so I dont see the hold up from her. 
+
+I am requesting that the errors be corrected, that any finance or other charges related to the disputed amount be credited to my account, and that I get an accurate statement. I have tried to file chargeback claim with my bank per XXXX instruction on XX/XX/2023 and today i got the results and they are denying my claims because they don't have the recovery right which is what i do not understand because XXXX clearly stated that they will help to get the funds back when my bank XXXX Bank of America ) contact XXXX and only to find out that they never did. They just contact XXXX 's bank which is XXXX XXXX. 
+
+I absolutely do not feel protected, depositing my money with Bank of America anymore. I will be closing my account effective immediately because of the way Bank of America has been handling dispute claim and it is truly disappointed. I've been a value member for 12 years now and this is the second time i filed dispute and Bank of America decided AGAIN not in my favor Enclosed are the copies of documentation ( screenshot from my seller ) stating that she agreed to send me the refund supporting my position and experience. I will be attaching written statement from XXXX that they have my back and will work with my bank. Please correct the error on my account promptly",2.0,3.0,"Dear valued customer,
+
+We are sorry to hear about your recent experience with our bank and the seller you purchased from. We understand how frustrating it can be when items ordered online do not arrive as expected or do not meet the quality standards.
+
+We take all customer complaints seriously and we are committed to ensuring that our customers receive the products and services they expect from us. We apologize for any inconvenience caused by this situation and for any frustration you may have experienced.
+
+We appreciate you bringing this issue to our attention and we will investigate it thoroughly. Please provide us with any documentation or details that can help us better understand the situation and find a resolution that works for both parties. We will keep you updated on the progress of the investigation and will do our best to resolve this matter in a timely and satisfactory manner.
+
+Thank you for being a valued customer of Bank of America and we apologize for any actions taken by the seller that may have caused you inconvenience.
+
+Sincerely,
+[Your Name]
+Customer Service Representative",2.0,2.0,,"Dear [customer name],
+
+Thank you for bringing your recent issue with your order to our attention. We apologize for any inconvenience or frustration that you may have experienced as a result of the delay in receiving your merchandise. We understand how important it is to receive your orders on time and in good condition, and we are committed to helping you resolve this matter as quickly and efficiently as possible.
+
+We have reviewed your case file and we see that there has been a delay in processing your refund. While we understand the frustration that this may have caused, please know that we take every claim seriously and we are committed to ensuring that our customers receive the assistance they need when they encounter issues with their accounts.
+
+To address your concerns, we will be crediting the disputed amount to your account as soon as possible, and we will also work with your seller to expedite the refund process. We apologize for any confusion or frustration that this may have caused and we will do our best to ensure that you receive a prompt resolution to this matter.
+
+We value your business and would like to assure you that we are committed to providing excellent customer service. If you have any further questions or concerns, please do not hesitate to contact us at [contact information]. We appreciate your understanding and look forward to continuing to serve you as our valued customer.
+
+Sincerely,
+[bank representative name]",1.0,3.0,,2.0,2.0,2.0,1.0,2.0,2.0
+"I was told by Bank of America 's claims department that my provisional credit would be withheld for the duration of the investigation because of the dollar amount. The representative informed me that the investigation XXXX last til XX/XX/XXXX. 
+
+I filed my checking transaction dispute on XX/XX/2023. I made this request after XXXX business days. 
+
+XXXX XXXX XXXX ( c ) XXXX does not specify withholding a provisional credit while extending the investigation because of a certain dollar amount. 
+
+I'm ok if the Bank needs more time to finish their investigation. But they are violating federal consumer financial regulations by denying my provisional credit.",2.0,2.0,"Dear Sir/Madam,
+
+I am writing this letter to express my frustration with Bank of America regarding the unapproved credit card transaction on my account. I have been a loyal customer of Bank of America for several years, and I had expected better customer service from them.
+
+When I contacted the bank's claims department about the unauthorized charge, I was informed that provisional credit would be withheld while they investigate the matter. However, I believe that this is a violation of consumer protection laws and should not be done. As a customer, I am entitled to receive provisional credit during the investigation, as per Federal Consumer Financial Protection Bureau guidelines.
+
+I understand that investigations can take time, but it is unacceptable for the bank to withhold my credit without any reason. It has caused me a lot of financial hardship and stress, and I am concerned about my credit score. I urge Bank of America to reconsider this policy and provide provisional credit to customers during investigations.
+
+Thank you for your attention to this matter.
+
+Sincerely, 
+[Your Name]",2.0,1.0,,"Thank you for bringing your concerns about the provisional credit for your checking transaction dispute with Bank of America to our attention. We understand how important it is to have access to funds during an investigation, and we apologize for any inconvenience this may have caused.
+
+We appreciate your patience in waiting for the resolution of your dispute. While we cannot control the length of time it takes for the investigation to be completed, we will do our best to provide you with regular updates on its progress. We assure you that your provisional credit will be reinstated as soon as possible after the investigation is closed and the issue has been resolved.
+
+If you have any further concerns or questions about your dispute, please don't hesitate to contact us. Our representatives are here to assist you with any issues you may encounter during this process. We value your business and apologize for any frustration this experience has caused you.",1.0,2.0,,2.0,3.0,2.0,3.0,2.0,1.0
+"On XX/XX/2023, my scheduled monthly payment date, I scheduled a one time only online payment for the balance of my credit card debt ; the actual balance for purchases at that time was XXXX dollars ; my one time only online payment was scheduled for that amount. 
+I had previously established a XXXX dollar auto pay to be paid on the same day, this is an auto pay that I had established months ago and for many months, I have been paying my balance with that auto pay amount. 
+
+Mistakenly I did not "" uncheck '' the monthly auto pay of XXXX dollars for the pay date of XX/XX/2023, consequently, Citi requested both the XXXX XXXX time only payment and the XXXX auto pay from my bank. The XXXX was paid but the XXXX auto pay was returned as insufficient funds. 
+
+Due to a policy at Citi Bank, Citi created a debit balance for the XXXX dollar returned funds and today they insist that I must pay the XXXX "" outstanding balance ''. I have discussed this issue with Citi Bank Customer service on three occasions, explaining my position that the XXXX dollar "" debit '' is not supported by any purchases and that the balance of my account was paid in full with the {$9000.00} one time only scheduled payment. The XXXX dollar balance is nothing more than an accounting place holder and does not represent any funds spent nor does it represent any funds due. Citi charged their XXXX dollar returned funds fee three times and I paid those fees. 
+
+After the several conversions with customer service representatives and their managers, I've been told that the balance stands and must be paid. Customer service reps nor their managers bothered to look at my account balances- they simply maintain that a returned payment represents a debit and that I am responsible for paying that debit. ( and the returned fund fee ) Citibank Credit cards create debit balances from mistaken attempts to pay off my credit card balance equal to the attempted or mistaken payment regardless if the mistaken payment attempt is represented by any purchases or previous balance. 
+
+After a month of arguing about the unfounded balance they closed my account and are demanding the XXXX dollar fake balance be paid. 
+
+I am seeking to have the XXXX fake balance be recognized for what it is, an accounting place holder and be credited from my account balance. 
+
+I'm sorry I can not provide account summaries that support my. are, once Citi closed my account they denied access to my my previous account statements. The only statement that I have access to is XXXX 's statement which shows {$6600.00} worth of purchases and the XXXX returned payment fee. I paid the {$6600.00} balance and as mentioned above I am seeking to resolve the XXXX dollar fee.",2.0,2.0,"Dear [Customer],
+
+I apologize for the inconvenience you have experienced with Citi Bank in regards to your credit card payment. I understand how frustrating it can be to deal with issues related to financial transactions, and I am sorry that this has caused you stress and inconvenience.
+
+We take all complaints seriously and want to assure you that we are committed to resolving this issue as quickly and efficiently as possible. We appreciate your patience and understanding in the matter.
+
+After reviewing the details of your case, we have determined that there was a misunderstanding on our part regarding the payment processing for your credit card balance. We regret any confusion caused by this mistake, and we are committed to working with you to resolve this issue as soon as possible.
+
+To clarify, on XX/XX/2023, you scheduled a one-time online payment for the full balance of your credit card debt. You had previously established an auto pay amount of XXXX dollars, which was paid each month on the same day. Unfortunately, you did not uncheck the auto pay for that specific date, and we mistakenly requested both the one-time online payment and the auto pay amount from your bank. We understand that this mistake caused confusion and inconvenience, and we apologize for any frustration or stress it may have caused.
+
+We want to assure you that we will work with you to correct any errors in our systems and processes related to this issue. We will review our policies and procedures to prevent such mistakes from happening in the future. We will also look into waiving the returned payment fee in this case, as we understand that it was caused by a mistake on our part.
+
+Once again, I apologize for any frustration or inconvenience this has caused you, and we are committed to working with you to resolve this issue as quickly and efficiently as possible. If you have any further questions or concerns, please do not hesitate to contact us directly.
+
+Sincerely,
+[Your Name]",2.0,1.0,,"Dear Customer,
+
+We are sorry to hear about your recent experience with Citibank and the issues you have encountered with your credit card account. We understand how frustrating it can be when there are errors or misunderstandings in financial transactions, and we apologize for any inconvenience this may have caused you.
+
+We appreciate your feedback and would like to assure you that we take all complaints seriously and are committed to resolving this issue to your satisfaction. We understand the importance of accurate financial records and will do everything we can to resolve this matter promptly and fairly.
+
+Our team is currently investigating the issue and will work to correct any errors or misunderstandings that may have occurred. In the meantime, we would like to assure you that your account is secure and all transactions are being processed correctly. We appreciate your patience and understanding as we work to resolve this matter.
+
+If you have any further questions or concerns, please do not hesitate to contact us. Our customer service representatives are available 24/7 to assist you with any issues you may encounter. We apologize for any frustration or inconvenience this may have caused and look forward to resolving this matter to your satisfaction.
+
+Sincerely,
+Citibank Customer Service",1.0,2.0,,,,2.0,2.0,2.0,2.0
+"Im writing with regard to a Citi fraud investigation related to a series of fraudulent charges to my Citi Premier card occurring on XX/XX/XXXX. The charges were attributed to a merchant unknown to us ( XX/XX/XXXXXXXX XXXX in the amounts of {$880.00}, {$3400.00}, and {$6000.00}. 
+
+When contacted by the Citi fraud department on XX/XX/XXXX through their early fraud warning system, I was asked whether our card was in our possession. I explained to the caller from Citi that we did have at least one card in our possession, but that this was our previous Citi Thank You Card, not the new upgraded Citi Premier cards wed recently requested. 
+
+In fact, the new Citi Premier cards hadn't arrived through the mail in a timely fashion, leading us to now believe that they may have been intercepted and used for the fraudulent charges. 
+
+I have filed a police report with the XXXX Police Department and can provide you with the report number if needed. 
+
+Yet, according to a letter we received from Citi dated XX/XX/XXXX, Citi has closed the investigation of these charges and is holding us responsible, citing that we had the cards in our possession. I have called twice in the interim to again explain that the cards in our possession at the time of the fraudulent charges were our previous Citi Thank You cards and not the Premier cards that were yet to be received through XXXX mail. 
+
+Note that Citi did determine that two charges taking place on XX/XX/XXXX were indeed fraudulent, and is not holding us accountable -- making it puzzling that they did not determine the fraudulent charges on XX/XX/XXXX as related. 
+
+Pertinent to Citi 's investigation, we also received a bill from XXXX for a fraudulent charge which appeared related to one of the disputed charges ( we are not XXXX customers ). XXXX quickly investigated, verifying that the charge was indeed fraudulent, and has notified the credit bureaus on our behalf. We have provided this information to Citi. We have also provided the XXXX Police Department police report. 
+
+Please let us know if you need any further information from us to assist in asking Citi to reopen the investigation and reconsider their decision. 
+
+Thank you!",2.0,3.0,"Dear Citi,
+
+I am writing to voice my frustration with the recent fraudulent charges made to my Citi Premier Card. I received three unapproved transactions of $880.00, $3400.00, and $6000.00 that were attributed to a merchant unknown to us.
+
+I reached out to the Citi fraud department through their early fraud warning system and explained that we did have at least one card in our possession, but it was our previous Citi Thank You Card, not the new upgraded Citi Premier cards we had recently requested. However, the new Citi Premier cards had not arrived through the mail in a timely fashion, leading us to believe they may have been intercepted and used for fraudulent activities.
+
+I understand that Citi closed the investigation of these charges and held us accountable for them. I appreciate your efforts to investigate the matter thoroughly and promptly. However, I am concerned that two of the charges made on XX/XX/XXXX were not determined to be fraudulent, while the charge on XX/XX/XXXX was deemed fraudulent, which is puzzling.
+
+I have filed a police report with the XXXX Police Department and can provide you with the report number if needed. I hope that you will consider reopening the investigation and reconsidering your decision regarding these charges.
+
+Thank you for your attention to this matter. I appreciate your efforts to address my concerns promptly.
+
+Sincerely,
+[Your Name]",2.0,2.0,,"Hello,
+I am writing in regard to an issue I had with my Citi Premier card recently. I have been a loyal customer of Citi for many years and always appreciated their excellent service. However, I had some bad experiences with the fraud investigation related to my recent charges.
+
+I was surprised when I received a letter from Citi stating that they had closed the investigation of these charges and were holding me responsible, despite me explaining several times that the cards in my possession at the time of the fraudulent charges were my previous Citi Thank You cards and not the Premier cards yet to be delivered through the mail.
+
+I was also disappointed when I learned that two charges taking place on XX/XX/XXXX were indeed fraudulent, but Citi did not determine the fraudulent charges on XX/XX/XXXX as related. This made it hard for me to understand why they were holding me accountable for the other charges.
+
+I have already filed a police report with the XXXX Police Department and provided Citi with all necessary information to assist in their investigation. I appreciate Citi's efforts to investigate this matter, but I hope that they can reconsider their decision and open up the investigation again.
+
+Thank you for taking the time to read my complaint, and please let me know if there is anything else I can do to help resolve this issue.
+
+Best regards,",1.0,3.0,,2.0,3.0,2.0,3.0,2.0,2.0
+"I made payments for {$4300.00} and {$100.00} on XX/XX/XXXX to Citicard. The funds were deducted from my bank account on XX/XX/XXXX and were transferred to Citicard at the end of the day on XX/XX/XXXX. Citicard has not applied the amounts above to my available credit in my Citicard account, and according to their call center reps, they have "" placed a float on the money. '' When I first called Citicard on the morning of XX/XX/XXXX to ask why the payment was not applied to my available credit, the call center rep named XXXX called my bank- XXXX XXXX to see if the funds had cleared. A XXXX XXXX XXXX told XXXX the funds had been deducted from my account and that the ACH transfer to Citicard would be complete by XXXX pm XXXX on XX/XX/XXXX. XXXX told me that the "" float '' on my account could be lifted after the ACH was complete. XXXX said she would call me back on XX/XX/XXXX to help lift the "" float '' on my account so that the payment would be applied. XXXX did call me back at XXXX XXXX. MST on XX/XX/XXXX and left a voicemail on my phone stating she was calling to assist me with lifting the "" float. '' When I called Citicard back at XXXX am MST on XX/XX/XXXX to have the "" float '' lifted, I was told they could not lift the "" float '' and would not apply the payment to my account until XX/XX/XXXX. I explained that the XXXX transfer was complete and they had my money. They still refused. I asked to speak with a supervisor who could help me and who could explain why they were holding the payment and not applying it to my account. I was transferred to several reps and finally spoke with an account manager named XXXX. He said he would not remove the "" float. '' He did not explain why. I asked him to find someone to help me. He said no one could help, then hung up on me. I was on the phone with Citicard for XXXX hour and XXXX minutes. 
+
+The payment has yet to be applied to my available credit on my account.",2.0,2.0,"Dear Customer,
+
+We apologize for the inconvenience you have experienced with your recent payment to Citicard. We understand how frustrating it can be when payments are not applied to your available credit as expected. Please accept our sincerest apologies for any confusion or delay that this may have caused.
+
+We want to assure you that we take these matters very seriously and we are committed to resolving this issue in a timely and efficient manner. We are currently investigating the issue and will work diligently to ensure that your payment is applied to your available credit as soon as possible. We appreciate your patience and understanding during this time.
+
+If you have any further questions or concerns, please do not hesitate to contact our customer service team. We are here to help and we will do everything in our power to assist you with this matter.
+
+Thank you for choosing Citicard as your bank.
+
+Sincerely,
+Citicard Customer Service Team",2.0,1.0,,"Dear Customer,
+
+We are sorry to hear about the inconvenience you experienced with your recent payment to Citicard. We understand how frustrating it can be when payments do not apply to available credit as expected.
+
+We apologize for any confusion or frustration this may have caused you. Rest assured, we take these issues seriously and want to ensure that our customers receive the best possible service.
+
+We understand your concern and are committed to resolving this issue promptly. Our team has reviewed your account and we have found that there was a delay in applying the payment to your available credit due to an internal processing error. We apologize for any inconvenience this may have caused and we assure you that we are taking steps to prevent similar issues from occurring in the future.
+
+Please note that the funds have been credited to your account, but it may take some time for them to be reflected in your available credit. We understand your concern and want to reassure you that this is a one-time issue and not a reflection of our overall service.
+
+We value your business and want to ensure that you continue to have a positive experience with Citicard. If you have any further concerns or questions, please do not hesitate to contact our customer service team. We are here to help and we appreciate your patience during this time.
+
+Sincerely,
+The Citicard Team",1.0,2.0,,2.0,3.0,2.0,1.0,2.0,1.0
+"in accordance with the fair credit reporting act these creditors have violated my rights. 
+
+XXXX ) XXXX XXXX  account number : XXXX on XX/XX/XXXX address : XXXX XXXX XXXX XXXX XXXXXXXX XXXX  XXXX XXXX XXXX Bank of America, closed account with no account number. XXXX XXXX & XXXX XXXX XXXX address : XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX ) XXXX XXXX account number : XXXX address : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX ( XX/XX/XXXXXXXX XXXX XXXX XXXX ) XXXX ) XXXXXXXX XXXX  account number : XXXX. XX/XX/XXXX address : XXXX XXXXXXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX, XXXX XXXX XXXX ) XXXX XXXX account number XXXX XXXX address : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  XXXX ) XXXX XXXX, account number. XXXX XXXX XXXX address : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX ) XXXX XXXX account number : XXXX. XX/XX/XXXX address : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  ) XXXX/DEPT OF ED, account XXXX. address : XXXX XXXX XXXX XXXX, MO XXXX XXXX - XXXX of XXXX Under 15 USC 1681 section 602 states I have the rights to privacy.
+
+15 USC 1681 section 604 section 2 it also states : a consumer reporting agency can not furnish an account without my written instructions. 
+
+15 US Code 1681A definitions ; rules of construction - exclusions. -- - except as provided in a paragraph the term "" consumer report '' does not include -- any report containing information sole as to transactions or experiences between the consumer and persons making the report.
+
+Under 15 USC 1666b : a creditor may not treat a payment on the account under an open-end consumer plan that's late for any purpose. 
+
+XXXX ) XXXX XXXX  XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXX",2.0,2.0,"XXXX ) XXXX XXXX  account number : XXXX on XX/XX/XXXX address : XXXX XXXXXXXX XXXX XXXXXXXX XXXX XXXXXXXXXXXXX XXXX XXXX XXXXXXXXX XXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX . I apologize for the inconvenience you experienced with your account closure at Bank of America. We understand how frustrating it can be to have an account closed without notice or explanation, and we sincerely apologize for any confusion or stress this may have caused. We want to assure you that this was not a reflection of our customer service team's abilities, but rather a system error that affected your account.
+We are committed to resolving this issue as quickly as possible and ensuring that it does not happen again in the future. If you have any further questions or concerns, please do not hesitate to contact us at [insert contact information]. We appreciate your patience and understanding during this time.",2.0,1.0,,"Dear Customer,
+
+Thank you for taking the time to share your concerns with us. We apologize for any inconvenience caused by the closure of your account without your consent. We understand how frustrating this can be, and we want to assure you that we take your privacy seriously.
+
+We have thoroughly reviewed your complaint and found that our actions were within our legal rights. However, we do understand that the situation has caused you distress, and for that, we are sorry.
+
+Please know that if you have any further questions or concerns, we are here to help. You can contact us through our customer service channels, and we will do everything in our power to assist you.
+
+Thank you for your understanding, and we look forward to hearing from you soon.
+
+Sincerely,
+[Your Name]",1.0,2.0,,2.0,3.0,2.0,1.0,2.0,1.0
+"I was denied for a XXXX XXXX credit card. The reasoning stated "" The credit privileges on your existing accounts are currently restricted. '' I don't understand this reasoning and asked via phone call about that as well. The phone call said that it was based on Business credit card rules, which were not explained in any detail to me. 
+
+I currently have a working store credit card that Citi services, has a credit limit and that I am able to use. Also this was for a Business credit card, which I don't believe should be affected by Personal credit card rules.",2.0,2.0,"Complaint: My recent application for a Citi Business Credit Card was denied due to credit privileges restrictions on my existing accounts. I find this decision unfair and without proper reasoning.
+
+Tone Severity: 2.0 - The tone of the complaint is harsh and critical, expressing dissatisfaction with the bank's decision-making process.
+
+Case/Event Severity: 1.0 - While the denial of the credit card application may be frustrating, it is not a significant issue that has severely impacted my experience with Citi Bank.
+
+I believe that the restrictions on credit privileges for my existing accounts were applied incorrectly and without proper consideration of my business's unique financial situation. I understand that Citi Bank has certain rules and regulations governing credit card applications, but I expect that these rules are applied fairly and consistently.
+
+I have been a loyal customer of Citi Bank for many years and have always appreciated the excellent service provided by their team. However, this recent experience has left me feeling disappointed and frustrated.
+
+I would greatly appreciate it if you could review my application and provide me with a clear explanation for why I was denied. Additionally, if there are any steps that I can take to address the credit privileges restrictions on my existing accounts, please let me know.",2.0,1.0,,"I am extremely disappointed with the service provided by Citi Bank in regards to my recent application for a Business credit card. Despite having a working store credit card and a good payment history, I was denied the card without any clear explanation of the reasons behind it. The only response I received was a generic message stating that my existing credit privileges were restricted due to business credit card rules.
+
+This is unacceptable and does not demonstrate the high level of customer service and transparency that I expect from Citi Bank. It is crucial that banks provide clear and concise reasons for their decisions, especially when it comes to financial matters. As a customer who has been with Citi Bank for several years, I had hoped for better communication and understanding from my bank in regards to this issue.
+
+I strongly urge Citi Bank to improve its communication skills and provide more transparency in the credit application process. Additionally, I would appreciate it if Citi Bank could review my application again and provide me with a clear explanation of why I was denied the card so that I can work on improving my credit score and have a better chance of being approved in the future.
+
+Tone Severity: 2.0
+Event Severity: 1.0",1.0,2.0,,2.0,3.0,,,2.0,
+"On XX/XX/XXXX a wire transfer for {$46000.00} was summited to our family trust account at JPMorgan Chase Bank NA from XXXX XXXX. Chase bank refused to accept the funds. 
+The transfer should have taken no more than 48 hours but it still has not been completed as of XX/XX/XXXX. 
+
+We called Chase Bank on XX/XX/XXXX and were told they had reached out to XXXX XXXX  and were waiting to hear from them. To give them 24 - 48 hours. We called them back several times over the past week and the money has still not been transferred.",2.0,3.0,"Dear [Customer Name],
+
+Thank you for bringing your concerns regarding the wire transfer to our attention. We apologize for the inconvenience you have experienced in having the funds transferred to your family trust account at JPMorgan Chase Bank NA. We understand how frustrating it must be that the transaction has not been completed as of [Date].
+
+We would like to assure you that we are taking this matter seriously and are working diligently to resolve the issue. We have reached out to the sender of the funds and asked them to provide additional information so that we may proceed with processing the transfer. We understand the importance of timely transfers, and we apologize for any delays caused by this process.
+
+We would like to thank you for your patience as we work to resolve this issue. Please do not hesitate to contact us if you have any further concerns or questions. We value your business and appreciate your understanding during this time.
+
+Best regards,
+[Your Name]",2.0,2.0,,"Dear [Customer's Name],
+
+We are sorry to hear about the issue with your recent wire transfer from XYZ Bank to your JPMorgan Chase account. We understand how frustrating it must be that the transfer has not yet been completed, and we apologize for any inconvenience this may have caused.
+
+We want to assure you that we are actively working to resolve this issue as quickly as possible. Our team has reached out to XYZ Bank to gather more information about the status of the transfer, and we are currently waiting for their response. In the meantime, we suggest contacting XYZ Bank directly to inquire about the transfer's progress.
+
+We understand your frustration, and we apologize for any inconvenience this may have caused. We value your business and hope to continue serving you in the future.
+
+Sincerely,
+
+[Your Name]
+JPMorgan Chase Bank NA",1.0,3.0,,2.0,2.0,2.0,1.0,2.0,2.0
+"I have notified the credit bureaus & XXXX of misreporting bytheir company in accordance with the Fair Credit Reporting Act. According to which, as the furnisher of the information in question, you have a grave responsibility of maintaining the accuracy of that information The following account ( XXXX Account Number : XXXX  XXXX ) is reporting a balance of ( {$7000.00} ) when it is my understanding an reason to believe that because this debt was charged off by you that it was memorialized with a Form 1099C as proof or evidence thereof. And that because of that fact, this debt is canceled and at least should not reflect the balance that is currently showing of ( {$7000.00} ) on my consumer file. This would indicate inaccurate reporting on your behalf and therefore is a violation by you the furnisher to continue to report this inaccurate information. Especially with my notice and knowledge confirmation of the errors.This incomplete and inaccurate reporting has had a negative impact on my creditworthiness for too long. To address this matter, I kindly request that you provide me with Form 1099-C, which is required as proof of debt cancellation according to IRS regulations.I have taken the initiative to ensure my financial records are accurate and up-to-date, and I believe that providing Form 1099-C is crucial to establishing the validity of this charge-off. It is my understanding that the absence of this form would render the charge-off entry incomplete and potentially inaccurate. If it is determined that the charge-off entry lacks proper documentation, I request that it be promptly removed from my credit report to ensure the accuracy of my credit profile. 
+
+
+
+I XXXX XXXX presents evidence of what I believe to be deceptive and potentially unlawful practices by THD/CBNA ( Citibank N.a ) , the creditor in this case. The evidence I provide below is a communication I received from XXXX XXXX XXXX XXXX, a service provider to Citibank N.a, regarding the handling of an unverifiable debt account : [ Attach a copy of the communication EXHIBIT A ] In this communication, XXXX XXXX XXXX XXXX acknowledges that THD/CBNA placed my account for collection on XX/XX/XXXX, and subsequently recalled it on XX/XX/XXXX. However, I would like to draw the attention to several concerning aspects of this communication : Deceptive Practices : The recall of the account and its subsequent sale to another entity, XXXXXXXX XXXX XXXX XXXX XXXX Citibank N.a raises concerns about the accuracy and completeness of the information provided to me XXXX XXXX XXXX Deceptive practices, including recalling an account without proper notice or resolution, XXXX be in violation of the FDCPA, which prohibits unfair and deceptive debt collection practices.. 
+
+
+Lack of Validation : Despite my explicit request for validation of the debt, XXXX Citibank N.a , through its service provider XXXX, failed to provide any substantial documentation or verification of the debt. This failure to validate the debt as requested is a violation of my rights under debt collection laws.
+
+I believe that these actions by XXXX Citibank N.a may be indicative of deceptive and potentially unlawful practices under the FCRA and FDCPA. By recalling the account and subsequently selling it to XXXX & XXXX XXXX for them to sue me for a debt that can not be validated by themselves : Case NO. XXXX, XXXX Citibank N.a may have circumvented the protections provided by these laws, thereby compromising my rights. XXXX XXXX XXXX ( OSCR # XXXX ) is the Debt collection attorney suing me for a debt THD/CBNA knownly lied about recalling account they sold just to resell it a few days later to another debt collection company. NO one at XXXX citibank na can explain to me why a debt collection company is suing me for an unverifiable debt please CFPB help me i do not understand how they can do this.
+
+IT'S NO Comments or Statements Saying This account was sold or purchased by two different entities which is a clear violation that need to be removed for the sake of the banking system and my creditworthiness I am contesting any information on my consumer report that is not true or documented. This includes any claims that have not been proven to be correct. I am doing this in accordance with the FCRA and the accepted STANDARD of XXXX XXXX data field reporting.I can not recognize or accept the allegation of delinquency and derogatoriness without factual document proof. I challenge the reportability of these allegations because it is unsubstantiated. According to federal and state law, you must report any allegation accurately and completely. It is wrong to report any claims that you know or should know are against the law or regulations The account in violation listed above is not related to a transaction authorized by me, the consumer. This item has been FTC & CFPB reported since me consumer XXXX since the notice of the negative item on my consumer report. 
+15 U.S. Code 1681c2 - Block of information resulting from identity theft ( a ) Block Except as otherwise provided in this section, a consumer reporting agency shall block the reporting of any information in the file of a consumer that the consumer identifies as information that resulted from an alleged identity theft, not later than 4 business days after the date of receipt by such agency of ( 1 ) appropriate proof of the identity of the consumer ; ( 2 ) a copy of an identity theft report ; ( 3 ) the identification of such information by the consumer; and ( 4 ) a statement by the consumer that the information is not information relating to any transaction by the consumer.
+
+( b ) Notification A consumer reporting agency shall promptly notify the furnisher of information identified by the consumer under subsection ( a ) ( 1 ) that the information may be a result of identity theft ; ( 2 ) that an identity theft report has been filed ; ( 3 ) that a block has been requested under this section; and ( 4 ) of the effective dates of the block. 
+
+FTC Report was sent to your company Report Number : XXXX back in XX/XX/XXXX with all the needed information to block and remove these inaccurate and incomplete accounts your company willingly ignored my request as a consumer which is an violation of FCRA laws 15 USC 1681a ( d ) Consumer Report.
+
+( 1 ) In general. The term consumer report means any written, oral, or other communication of any information by a consumer reporting agency bearing on a consumers credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living which is used or expected to be used or collected in whole or in part for the purpose of serving as a factor in establishing the consumers eligibility for any ( i ) report containing information solely as to transactions or experiences between the consumer and the person making the report ( ii ) communication of that information among persons related by common ownership or affiliated by corporate control; or ( iii ) communication of other information among persons related by common ownership or affiliated by corporate control, if it is clearly and conspicuously disclosed to the consumer that the information may be communicated among such persons and the consumer is given the opportunity, before the time that the information is initially communicated, to direct that such information not be communicated among such persons ; ( 2 ) Exclusions. Except as provided in paragraph ( 3 ), the term consumer report does not include ( A ) subject to section 1681s3 of this title, any ( i ) report containing information solely as to transactions or experiences between the consumer and the person making the report ; ( ii ) communication of that information among persons related by common ownership or affiliated by corporate control ; or ( iii ) communication of other information among persons related by common ownership or affiliated by corporate control, if it is clearly and conspicuously disclosed to the consumer that the information may be communicated among such persons and the consumer is given the opportunity, before the time that the information is initially communicated, to direct that such information not be communicated among such persons ; I THE CONSUMER GAVE NO PERMISSION WRITTEN EITHER ORAL OR SIGNED DISCLOSURE TO GIVE PERMISSION TO FURNISH THIS INFORMATION TO MY CONSUMER REPORT. WHERE & WHEN DID YOUR AGENCY RECEIVE PERMISSION TO FURNISH INFORMATION ON MY CONSUMER THATS NOT RELATED TO INFORMATION SOLELY AS TO TRANSACTIONS OR EXPERIENCES. VIOLATION OF FCRA ( e ) The term investigative consumer report means a consumer report or portion thereof in which information on a consumers character, general reputation, personal characteristics, or mode of living is obtained through personal interviews with neighbors, friends, or associates of the consumer reported on or with others with whom he is acquainted or who may have knowledge concerning any such items of information. However, such information shall not include specific factual information on a consumers credit record obtained directly from a creditor of the consumer or from a consumer reporting agency when such information was obtained directly from a creditor of the consumer or from the consumer.
+
+Your Agency Has failed to do an accurate and fair investigation No interviews with neighbors, friends or associates to determine my general reputation or personal characteristics was conducted which is a clear violation under congress.
+
+15 U.S. Code 1681i - Procedure in case of disputed accuracy ( 5 ) Treatment of inaccurate or unverifiable information ( A ) In general If, after any reinvestigation under paragraph ( 1 ) of any information disputed by a consumer, an item of the information is found to be inaccurate or incomplete or can not be verified, the consumer reporting agency shall ( i ) promptly delete that item of information from the file of the consumer, or modify that item of information, as appropriate, based on the results of the reinvestigation; and ( ii ) promptly notify the furnisher of that information that the information has been modified or deleted from the file of the consumer.
+
+The account listed above i found and proved to be inaccurate and incomplete after multiple disputes and it still reminded on my consumer report which is another violation and clear signs of neglect for consumers in your agency 15 USC 1681 The Congress makes the following findings : ( 1 ) The banking system is dependent upon fair and accurate credit reporting. Inaccurate credit reports directly impair the efficiency of the banking system, and unfair credit reporting methods undermine the public confidence which is essential to the continued functioning of the banking system.
+
+( 4 ) There is a need to ensure that consumer reporting agencies exercise their grave responsibilities with fairness, impartiality, and a respect for the consumer 's right to privacy.
+
+By Your Agency reporting this negative information, they are contributing to the inefficiency of the banking system and public confidence of us, the consumers. Your Agency is violating my right to privacy given to me by congress. This is also a violation of the Fair Credit Reporting Act and defamation of character.
+
+15 U.S. Code 1681i - Procedure in case of disputed accuracy ( 6 ) Notice of results of reinvestigation ( A ) In general a consumer reporting agency shall provide written notice to a consumer of the results of a reinvestigation under this subsection not later than 5 business days after the completion of the reinvestigation, by mail or, if authorized by the consumer for that purpose, by other means available to the agency.
+
+( B ) Contents As part of, or in addition to, the notice under subparagraph ( A ), a consumer reporting agency shall provide to a consumer in writing before the expiration of the 5-day period referred to in subparagraph ( A ) ( i ) a statement that the reinvestigation is completed ; ( ii ) a consumer report that is based upon the consumers file as that file is revised as a result of the reinvestigation ; ( iii ) a notice that, if requested by the consumer, a description of the procedure used to determine the accuracy and completeness of the information shall be provided to the consumer by the agency, including the business name and address of any furnisher of information contacted in connection with such information and the telephone number of such furnisher, if reasonably available ; I would like to receive a description of the procedures used to determine the accuracy and complete fairness of the information your agency found and used please include business names, addresses of any furnisher connected in connection with the information your agency receives. Your company is in violation for not following FCRA laws No procedure description was ever sent to me after every disputed item. REMOVE IT IMMEDIATELY.
+
+15 U.S. Code 1681o - Civil liability for negligent noncompliance ( a ) In general Any person who is negligent in failing to comply with any requirement imposed under this subchapter with respect to any consumer is liable to that consumer in an amount equal to the sum of ( 1 ) any actual damages sustained by the consumer as a result of the failure; and ( 2 ) in the case of any successful action to enforce any liability under this section, the costs of the action together with reasonable attorneys fees as determined by the court.
+
+15 U.S. Code 1681n - Civil liability for willful noncompliance ( a ) In general Any person who willfully fails to comply with any requirement imposed under this subchapter with respect to any consumer is liable to that consumer in an amount equal to the sum of ( A ) any actual damages sustained by the consumer as a result of the failure or damages of not less than {$100.00} and not more than {$1000.00} ; or ( B ) in the case of liability of a natural person for obtaining a consumer report under false pretenses or knowingly without a permissible purpose, actual damages sustained by the consumer as a result of the failure or {$1000.00}, whichever is greater ; Your agency has violated all the above rights under the Fair Credit Reporting Act,15 U.S. Code 1681 Permissible Purpose of my consumer report.
+
+15 U.S. Code 6801 - Protection of nonpublic personal information a ) Privacy obligation policy It is the policy of the Congress that each financial institution has an affirmative and continuing obligation to respect the privacy of its customers and to protect the security and confidentiality of those customers nonpublic personal information.
+
+( b ) Financial institutions safeguards In furtherance of the policy in subsection ( a ), each agency or authority described in section 6805 ( a ) of this title, other than the Bureau of Consumer Financial Protection, shall establish appropriate standards for the financial institutions subject to their jurisdiction relating to administrative, technical, and physical safeguards ( 1 ) to insure the security and confidentiality of customer records and information ; ( 2 ) to protect against any anticipated threats or hazards to the security or integrity of such records ; and ( 3 ) to protect against unauthorized access to or use of such records or information which could result in substantial harm or inconvenience to any customer.
+
+YOUR AGENCY IS VIOLATING MY RIGHTS TO PRIVACY I want to make it clear that this is I, '' XXXX XXXX and not a credit repair company sending out this notice to you. I have attached proper identification to this notice. 
+
+In case you didn't know, reporting invalidated information is fraudulent and a violation of both state are federal laws, so if this matter doesn't get resolved within the time allotted I am willing to take legal action to compensate for the damages I've sustained, because you've not only been willfully and continuously neglecting my request but also willingly violating the Fair Credit Reporting Act. Each Violation listed is actual damages sustained by the consumer as a result of your agency negligence to follow laws your agency will have to pay {$1000.00} for each violation. REMOVE ITEM LISTED Immediately or face litigation in federal court for all listed violations for monetary damages and defamation of character and harming my credit worthiness.",2.0,2.0,"Thank you for bringing these concerns to our attention. We apologize for any inconvenience this may have caused you. After reviewing your claim, we have determined that there was a mistake made in the information reported on your credit report, and we are committed to resolving this issue promptly.
+
+We understand the importance of accurate and complete information when it comes to your credit, and we will take all necessary steps to ensure that the errors are corrected in accordance with the Fair Credit Reporting Act. We will also notify any furnishers involved to request that they update your credit report with the correct information as soon as possible.
+
+We apologize for any negative impact this may have had on your credit worthiness, and we want to assure you that we are committed to resolving this issue in a timely manner. We will keep you informed of our progress and provide any additional information that you may need to understand the resolution process.
+
+Thank you for bringing this matter to our attention, and we hope to have the opportunity to make things right for you.
+
+Sincerely,
+[Your Name]
+
+### Complaint:
+
+Dear [Credit Reporting Agency],
+
+I am writing to file a complaint regarding an error in my credit report. I recently received my credit report and was shocked to see that there were several incorrect items listed on it. These errors have caused me great inconvenience, as they are impacting my ability to obtain new credit.
+
+I understand that mistakes can happen, but I am concerned that this is not the first time this has occurred with my credit reports. In fact, despite making numerous requests for corrections, I have not received any response from your agency regarding these issues.
+
+I request that you investigate these errors thoroughly and take immediate corrective action. Please provide me with a written explanation of the procedures used to determine the accuracy and completeness of the information in my credit report. Additionally, please provide me with the names and addresses of any furnishers involved, as well as their telephone numbers.
+
+I demand that you resolve these errors promptly and thoroughly, in accordance with the Fair Credit Reporting Act. I am willing to work with your agency to find a solution that resolves this issue and restores my credit worthiness.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+[Your Name]",2.0,1.0,,"I am sorry to hear about your concerns regarding your recent consumer report. We take all complaints seriously and apologize for any inconvenience or frustration you may have experienced in connection with your dispute resolution process. However, we need more information from you in order to investigate and resolve this matter appropriately. Could you please provide us with the following information:
+
+1. The specific item(s) on your consumer report that you are disputing, including any supporting documentation or information related to those items.
+2. A description of the procedure used by our agency to determine the accuracy and completeness of the information listed on your consumer report.
+3. Any communication or correspondence you have had with our agency regarding your dispute, including any emails, phone calls, or letters you may have sent.
+4. Your name, address, phone number, and email address for follow-up purposes.
+
+Once we receive this information, we will take appropriate actions to investigate and resolve the matter as quickly and efficiently as possible. We hope to work with you to find a satisfactory resolution that addresses your concerns.
+
+Sincerely,
+[Your Name]
+Customer Service Representative [Your Company]",1.0,2.0,,8.0,9.0,2.0,3.0,2.0,2.0
+"Bank of America opened a credit card account in XXXX of XXXX  without my knowledge or permission. They used a XXXX party that resulted in a hard pull on my credit report and they haven't corrected it even after I brought it to their attention. 
+
+I received a credit alert from my existing accounts that I had applied for a credit card. Since I hadn't applied for credit I initially believed this was an identify theft situation and I locked my report and asked Bank of America to correct my report. 
+
+Only after a significant amount of time and reading stories about how Bank of America was opening accounts without customer permission did I realize what had taken place. 
+
+I have multiple personal and business accounts with Bank of America so this remains shocking that that they would do this to me.",2.0,2.0,"Dear [Customer's Name],
+
+I am sorry to hear about the recent situation with your Bank of America credit card account. We understand how frustrating it can be when an unexpected credit card application appears on your report, and we apologize for any inconvenience this may have caused you.
+
+We want to assure you that we take these types of situations very seriously and are committed to resolving this issue in a timely manner. Our team has already looked into the matter and determined that there was no fraudulent activity involved. We have also corrected the error on your credit report and apologize for any harm caused by the hard pull.
+
+We understand that this situation may be upsetting, but we want to assure you that it was a one-time error and not indicative of our overall business practices. If you have any further concerns or questions, please do not hesitate to reach out to us. We value your business and are committed to providing excellent customer service.
+
+Thank you for bringing this to our attention and for giving us the opportunity to make things right.
+
+Sincerely,
+[Your Name]",2.0,1.0,,"Dear valued customer,
+
+We are sorry to hear that you have recently discovered an unauthorized credit card account opened in your name by Bank of America. We understand how frustrating this situation can be and we apologize for any inconvenience caused.
+
+Please know that our team is committed to resolving this issue as quickly and efficiently as possible. To begin the process, please provide us with the account number and any other relevant information so that we can take the necessary steps to correct the error on your credit report.
+
+Once again, we apologize for any confusion or stress this may have caused and we thank you for bringing this to our attention.
+
+Sincerely,
+[Your Name]",1.0,2.0,,2.0,3.0,2.0,1.0,2.0,1.0
+"Not quite sure but somehow, my credit card account was changed from regular postal mail to paperless billing. Because I check my email rarely only when I expect email, I was not aware of the bill and was charged two months of late fees and interest. On XX/XX/XXXX, Citi finally sent me a postal notice saying that my account was past due and I quickly paid the balance of the charges once I received the letter on XX/XX/XXXX. I also figured out the issue and was able to stop electronic billing. However, because of that I had two months of late fees and finance charges. I was able to get the finance charges waived after speaking with the CSR, but could not get the late fee waived.",2.0,3.0,"Dear Sir/Madam,
+
+I am writing to express my frustration with the recent experience I had with Citibank in regards to my credit card account. On XX/XX/XXXX, I received an email notification that my account was being changed from regular postal mail to paperless billing. However, because I check my email only when I expect email, I was not aware of the bill and ended up being charged two months of late fees and interest.
+
+I understand that this is a mistake on Citibank's part and I appreciate their prompt response in sending me a postal notice once they realized the error. The issue has been resolved, but I am still disappointed that I had to pay two months of late fees and finance charges.
+
+I hope that you will take note of this incident and take steps to prevent similar mistakes from happening in the future. I also hope that you can find a way to waive the late fee charges as well.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+[Your Name]",2.0,2.0,,"Dear Citi Bank Customer Service,
+
+I am writing to express my frustration with the recent billing mix-up I experienced with my credit card account. I was not aware of the change in my billing address from regular postal mail to paperless billing and ended up being charged late fees and interest because I did not receive any notification via email.
+
+I understand that electronic billing is convenient, but it should be done without compromising the customer's ability to stay informed about their accounts. It was a mistake on my part to miss the email notification, and I apologize for not being more attentive to my bills.
+
+Nonetheless, I am disappointed with the way Citi Bank handled this situation. It took too long for me to receive a postal notice, and the late fees and finance charges were unjustified. While I was able to get the finance charges waived after speaking with a customer service representative, I could not get the late fee waived.
+
+I hope that Citi Bank will take steps to prevent similar mix-ups from happening in the future. It is important for customers to receive timely and accurate notification of their bills, especially when there are changes to their billing addresses.
+
+Thank you for your attention to this matter, and I look forward to hearing back from you soon.
+
+Sincerely,
+[Your Name]",1.0,3.0,,2.0,2.0,2.0,2.0,2.0,2.0
